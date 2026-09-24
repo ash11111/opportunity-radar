@@ -1,0 +1,204 @@
+{
+  "generated_at": "2026-09-24T03:20:34.369445+00:00",
+  "raw_items_seen": 195,
+  "opportunities": [
+    {
+      "id": "early-paying-slowing-yes",
+      "fingerprint": "early paying slowing yes",
+      "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-09-24",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/sidehustle",
+          "title": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
+          "url": "https://www.reddit.com/r/sidehustle/comments/1wfry3x/on_track_for_225k_in_app_revenue_this_year_but_it/",
+          "published": "2026-09-14T03:15:11+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "interested-link-looking-pipeline",
+      "fingerprint": "interested link looking pipeline",
+      "opportunity": "Earn monthly $$ refer me clients for short form content editing",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Lead generation / agency",
+      "first_detected": "2026-09-24",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/sidehustle",
+          "title": "Earn monthly $$ refer me clients for short form content editing",
+          "url": "https://www.reddit.com/r/sidehustle/comments/1wdp9te/earn_monthly_refer_me_clients_for_short_form/",
+          "published": "2026-09-11T18:56:44+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "looking-side-weekends-writing",
+      "fingerprint": "looking side weekends writing",
+      "opportunity": "Looking for a side gig / freelance work",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-09-24",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 54
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/sidehustle",
+          "title": "Looking for a side gig / freelance work",
+          "url": "https://www.reddit.com/r/sidehustle/comments/1whwbx3/looking_for_a_side_gig_freelance_work/",
+          "published": "2026-09-16T12:50:22+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "appear-harness-let-worked",
+      "fingerprint": "appear harness let worked",
+      "opportunity": "Show HN: NetHackers",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-09-24",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: NetHackers",
+          "url": "https://nethackers.dunnolab.ai/",
+          "published": "2026-09-23T23:04:20+00:00",
+          "engagement": 3
+        }
+      ]
+    },
+    {
+      "id": "append-only-code-data-ground",
+      "fingerprint": "append-only code data ground",
+      "opportunity": "Show HN: Hosted JayBase \u2013 An append-only data store for safe AI agent writes",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-09-24",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Hosted JayBase \u2013 An append-only data store for safe AI agent writes",
+          "url": "https://jaybase.ai",
+          "published": "2026-09-23T22:59:45+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "gotta-side-stocks-years",
+      "fingerprint": "gotta side stocks years",
+      "opportunity": "F@*!ing soul sucking",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Creator monetization",
+      "first_detected": "2026-09-24",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 52
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/sidehustle",
+          "title": "F@*!ing soul sucking",
+          "url": "https://www.reddit.com/r/sidehustle/comments/1vzi7ji/fing_soul_sucking/",
+          "published": "2026-08-27T03:03:41+00:00",
+          "engagement": 0
+        }
+      ]
+    }
+  ]
+}
