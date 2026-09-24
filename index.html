@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Opportunity Radar</title><link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header><div><p class="eyebrow">PERSONAL EARLY-WARNING SYSTEM</p><h1>Opportunity Radar</h1><p id="status">Loading latest signals…</p></div><div class="header-actions"><button id="watch-only">Watchlist</button><button id="reset-local" class="secondary">Reset local choices</button></div></header>
+  <main>
+    <section class="summary" id="summary"></section>
+    <section class="controls" aria-label="Dashboard filters">
+      <input id="search" type="search" placeholder="Search opportunities or sources">
+      <select id="view"><option value="all">All signals</option><option value="new">New today</option><option value="early">Very early</option><option value="growing">Fastest growing</option><option value="evidence">Evidence building</option><option value="low-saturation">Low saturation</option></select>
+      <select id="source"><option value="">All sources</option></select>
+      <select id="category"><option value="">All categories</option></select>
+      <select id="sort"><option value="opportunity">Sort: Opportunity score</option><option value="momentum">Sort: Momentum</option><option value="novelty">Sort: Novelty</option><option value="evidence">Sort: Evidence</option><option value="newest">Sort: First detected</option></select>
+    </section>
+    <p class="notice">Scores are decision-support heuristics. Revenue claims are not verified; open the original links before treating any signal as real.</p>
+    <section class="table-wrap"><table><thead><tr><th>Opportunity</th><th>Category</th><th>First detected</th><th>Mentions</th><th>Sources</th><th>Momentum</th><th>Novelty</th><th>Saturation</th><th>Evidence</th><th>Access</th><th>Score</th><th>Lifecycle</th><th></th></tr></thead><tbody id="rows"></tbody></table></section>
+  </main>
+  <dialog id="detail"><article><button class="close" aria-label="Close">×</button><div id="detail-content"></div></article></dialog>
+  <script src="app.js"></script>
+</body></html>
