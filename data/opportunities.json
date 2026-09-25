@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-25T00:28:05.833537+00:00",
+  "generated_at": "2026-09-25T00:30:23.560993+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "enough-feels-understanding-work",
-      "fingerprint": "enough feels understanding work",
+      "id": "barely-can-going-margins",
+      "fingerprint": "barely can going margins",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
@@ -36,8 +36,8 @@
       ]
     },
     {
-      "id": "client-every-info-works",
-      "fingerprint": "client every info works",
+      "id": "comments-content-edits-every",
+      "fingerprint": "comments content edits every",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
@@ -69,8 +69,8 @@
       ]
     },
     {
-      "id": "hope-removed-said-use",
-      "fingerprint": "hope removed said use",
+      "id": "august-can-others-some",
+      "fingerprint": "august can others some",
       "opportunity": "Show HN: Koi.rest \u2013 watch some fish and regain your balance",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
@@ -97,13 +97,13 @@
           "title": "Show HN: Koi.rest \u2013 watch some fish and regain your balance",
           "url": "https://koi.rest",
           "published": "2026-09-24T21:33:03+00:00",
-          "engagement": 132
+          "engagement": 134
         }
       ]
     },
     {
-      "id": "creation-editing-genuine-work",
-      "fingerprint": "creation editing genuine work",
+      "id": "can-creation-link-some",
+      "fingerprint": "can creation link some",
       "opportunity": "Looking for a side gig / freelance work",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
@@ -135,8 +135,41 @@
       ]
     },
     {
-      "id": "being-invest-use-workbooks",
-      "fingerprint": "being invest use workbooks",
+      "id": "can-lesson-second-job-some",
+      "fingerprint": "can lesson second-job some",
+      "opportunity": "Full-time teacher looking for legitimate online side jobs",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Data / marketplace",
+      "first_detected": "2026-09-25",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 52
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/sidehustle",
+          "title": "Full-time teacher looking for legitimate online side jobs",
+          "url": "https://www.reddit.com/r/sidehustle/comments/1wpi83o/fulltime_teacher_looking_for_legitimate_online/",
+          "published": "2026-09-25T00:29:16+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "account-every-hustles-years",
+      "fingerprint": "account every hustles years",
       "opportunity": "F@*!ing soul sucking",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
