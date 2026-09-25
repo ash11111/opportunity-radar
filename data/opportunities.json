@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-25T00:18:45.846288+00:00",
+  "generated_at": "2026-09-25T00:28:05.833537+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "completely-genuinely-out-would",
-      "fingerprint": "completely genuinely out would",
+      "id": "enough-feels-understanding-work",
+      "fingerprint": "enough feels understanding work",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
@@ -36,8 +36,8 @@
       ]
     },
     {
-      "id": "content-hmu-short-submitted",
-      "fingerprint": "content hmu short submitted",
+      "id": "client-every-info-works",
+      "fingerprint": "client every info works",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
@@ -69,8 +69,8 @@
       ]
     },
     {
-      "id": "august-fuck-now-one",
-      "fingerprint": "august fuck now one",
+      "id": "hope-removed-said-use",
+      "fingerprint": "hope removed said use",
       "opportunity": "Show HN: Koi.rest \u2013 watch some fish and regain your balance",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
@@ -79,7 +79,7 @@
       "mentions_7d": 1,
       "source_count": 1,
       "scores": {
-        "momentum": 49,
+        "momentum": 50,
         "novelty": 92,
         "saturation": 20,
         "evidence": 55,
@@ -97,13 +97,13 @@
           "title": "Show HN: Koi.rest \u2013 watch some fish and regain your balance",
           "url": "https://koi.rest",
           "published": "2026-09-24T21:33:03+00:00",
-          "engagement": 128
+          "engagement": 132
         }
       ]
     },
     {
-      "id": "content-link-looking-submitted",
-      "fingerprint": "content link looking submitted",
+      "id": "creation-editing-genuine-work",
+      "fingerprint": "creation editing genuine work",
       "opportunity": "Looking for a side gig / freelance work",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
@@ -135,8 +135,8 @@
       ]
     },
     {
-      "id": "genuinely-researching-submitted-would",
-      "fingerprint": "genuinely researching submitted would",
+      "id": "being-invest-use-workbooks",
+      "fingerprint": "being invest use workbooks",
       "opportunity": "F@*!ing soul sucking",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
