@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-24T03:20:34.369445+00:00",
+  "generated_at": "2026-09-25T00:18:45.846288+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "early-paying-slowing-yes",
-      "fingerprint": "early paying slowing yes",
+      "id": "completely-genuinely-out-would",
+      "fingerprint": "completely genuinely out would",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-09-24",
+      "first_detected": "2026-09-25",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "id": "interested-link-looking-pipeline",
-      "fingerprint": "interested link looking pipeline",
+      "id": "content-hmu-short-submitted",
+      "fingerprint": "content hmu short submitted",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-09-24",
+      "first_detected": "2026-09-25",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +69,45 @@
       ]
     },
     {
-      "id": "looking-side-weekends-writing",
-      "fingerprint": "looking side weekends writing",
+      "id": "august-fuck-now-one",
+      "fingerprint": "august fuck now one",
+      "opportunity": "Show HN: Koi.rest \u2013 watch some fish and regain your balance",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-09-25",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 49,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 55,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 58
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Firsthand / engagement signal",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Koi.rest \u2013 watch some fish and regain your balance",
+          "url": "https://koi.rest",
+          "published": "2026-09-24T21:33:03+00:00",
+          "engagement": 128
+        }
+      ]
+    },
+    {
+      "id": "content-link-looking-submitted",
+      "fingerprint": "content link looking submitted",
       "opportunity": "Looking for a side gig / freelance work",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-09-24",
+      "first_detected": "2026-09-25",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,78 +135,12 @@
       ]
     },
     {
-      "id": "appear-harness-let-worked",
-      "fingerprint": "appear harness let worked",
-      "opportunity": "Show HN: NetHackers",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-09-24",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: NetHackers",
-          "url": "https://nethackers.dunnolab.ai/",
-          "published": "2026-09-23T23:04:20+00:00",
-          "engagement": 3
-        }
-      ]
-    },
-    {
-      "id": "append-only-code-data-ground",
-      "fingerprint": "append-only code data ground",
-      "opportunity": "Show HN: Hosted JayBase \u2013 An append-only data store for safe AI agent writes",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-09-24",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Hosted JayBase \u2013 An append-only data store for safe AI agent writes",
-          "url": "https://jaybase.ai",
-          "published": "2026-09-23T22:59:45+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "gotta-side-stocks-years",
-      "fingerprint": "gotta side stocks years",
+      "id": "genuinely-researching-submitted-would",
+      "fingerprint": "genuinely researching submitted would",
       "opportunity": "F@*!ing soul sucking",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-09-24",
+      "first_detected": "2026-09-25",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
