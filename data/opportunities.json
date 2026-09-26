@@ -1,47 +1,14 @@
 {
-  "generated_at": "2026-09-25T09:37:24.022369+00:00",
+  "generated_at": "2026-09-26T09:21:55.342341+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "far-now-only-openai",
-      "fingerprint": "far now only openai",
-      "opportunity": "Tell HN: No company scaled revenue as fast as AI companies",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-09-25",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 60
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Tell HN: No company scaled revenue as fast as AI companies",
-          "url": "https://news.ycombinator.com/item?id=49840597",
-          "published": "2026-09-25T05:50:23+00:00",
-          "engagement": 4
-        }
-      ]
-    },
-    {
-      "id": "built-complaining-first-yes",
-      "fingerprint": "built complaining first yes",
+      "id": "customers-keeping-subscriptions-was",
+      "fingerprint": "customers keeping subscriptions was",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-09-25",
+      "first_detected": "2026-09-26",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +36,12 @@
       ]
     },
     {
-      "id": "earn-info-pay-submitted",
-      "fingerprint": "earn info pay submitted",
+      "id": "comments-form-info-interested",
+      "fingerprint": "comments form info interested",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-09-25",
+      "first_detected": "2026-09-26",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,78 +69,12 @@
       ]
     },
     {
-      "id": "client-constrained-jev-wire",
-      "fingerprint": "client constrained jev wire",
-      "opportunity": "Show HN: Jevper \u2013 an LLM API client constrained to the Jev wire format",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-09-25",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 58
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Jevper \u2013 an LLM API client constrained to the Jev wire format",
-          "url": "https://github.com/zhulinchng/jevper",
-          "published": "2026-09-25T06:10:44+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "got-hot-idea-only",
-      "fingerprint": "got hot idea only",
-      "opportunity": "Show HN: Sitcom Flavour \u2013 Season your Claude Code chats with sitcom replies",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Service business",
-      "first_detected": "2026-09-25",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 55
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Sitcom Flavour \u2013 Season your Claude Code chats with sitcom replies",
-          "url": "https://ada.tools/sitcom-flavour/",
-          "published": "2026-09-25T05:03:52+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "agencies-gig-link-virtual",
-      "fingerprint": "agencies gig link virtual",
+      "id": "comfortable-get-rich-quick-marketing-weekends",
+      "fingerprint": "comfortable get-rich-quick marketing weekends",
       "opportunity": "Looking for a side gig / freelance work",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-09-25",
+      "first_detected": "2026-09-26",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,111 +102,12 @@
       ]
     },
     {
-      "id": "hello-only-project-was",
-      "fingerprint": "hello only project was",
-      "opportunity": "Show HN: TiddlyInstall \u2013 Single HTML file that makes cross-platform installers",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Software / micro-SaaS",
-      "first_detected": "2026-09-25",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: TiddlyInstall \u2013 Single HTML file that makes cross-platform installers",
-          "url": "https://robertsdotpm.github.io/_static/tiddlyinstall.html",
-          "published": "2026-09-25T07:25:00+00:00",
-          "engagement": 3
-        }
-      ]
-    },
-    {
-      "id": "auto-handles-now-store",
-      "fingerprint": "auto handles now store",
-      "opportunity": "Show HN: Tasket++ Simulate your Windows actions automatically-free and OS",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-09-25",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Tasket++ Simulate your Windows actions automatically-free and OS",
-          "url": "https://apps.microsoft.com/detail/xp9cjlhwvxs49p?hl=en-US&gl=US",
-          "published": "2026-09-25T07:46:00+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "evenings-link-lower-was",
-      "fingerprint": "evenings link lower was",
-      "opportunity": "Full-time teacher looking for legitimate online side jobs",
-      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Data / marketplace",
-      "first_detected": "2026-09-25",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 30,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 52
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Reddit",
-          "source_detail": "r/sidehustle",
-          "title": "Full-time teacher looking for legitimate online side jobs",
-          "url": "https://www.reddit.com/r/sidehustle/comments/1wpi83o/fulltime_teacher_looking_for_legitimate_online/",
-          "published": "2026-09-25T00:29:16+00:00",
-          "engagement": 0
-        }
-      ]
-    },
-    {
-      "id": "ebooks-far-got-hustles",
-      "fingerprint": "ebooks far got hustles",
+      "id": "best-made-stocks-when",
+      "fingerprint": "best made stocks when",
       "opportunity": "F@*!ing soul sucking",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-09-25",
+      "first_detected": "2026-09-26",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
