@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-27T10:01:20.484421+00:00",
+  "generated_at": "2026-09-28T10:56:07.856463+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "costs-doing-hitting-two",
-      "fingerprint": "costs doing hitting two",
+      "id": "costs-probably-spoken-well",
+      "fingerprint": "costs probably spoken well",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-09-27",
+      "first_detected": "2026-09-28",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "id": "every-info-refer-works",
-      "fingerprint": "every info refer works",
+      "id": "agency-currently-thanks-will",
+      "fingerprint": "agency currently thanks will",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-09-27",
+      "first_detected": "2026-09-28",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,23 +69,23 @@
       ]
     },
     {
-      "id": "costs-inverse-means-mil",
-      "fingerprint": "costs inverse means mil",
-      "opportunity": "Show HN: Ppgrid \u2013 Rasterising points in minutes, not hours",
+      "id": "certainty-eternal-millions-will",
+      "fingerprint": "certainty eternal millions will",
+      "opportunity": "An Antidote to Roko's Basilisk",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-09-27",
+      "first_detected": "2026-09-28",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
       "scores": {
-        "momentum": 43,
+        "momentum": 44,
         "novelty": 92,
         "saturation": 20,
-        "evidence": 46,
+        "evidence": 36,
         "accessibility": 62,
         "monetization": 38,
-        "opportunity": 55
+        "opportunity": 54
       },
       "lifecycle": "Very Early",
       "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
@@ -94,20 +94,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Ppgrid \u2013 Rasterising points in minutes, not hours",
-          "url": "https://mrzk.io/posts/ppgrid-fast-continentscale-raster-interpolation/",
-          "published": "2026-09-27T07:22:03+00:00",
-          "engagement": 2
+          "title": "An Antidote to Roko's Basilisk",
+          "url": "https://news.ycombinator.com/item?id=49874609",
+          "published": "2026-09-28T07:15:29+00:00",
+          "engagement": 26
         }
       ]
     },
     {
-      "id": "excel-marketing-please-social",
-      "fingerprint": "excel marketing please social",
+      "id": "currently-happy-powerpoint-thanks",
+      "fingerprint": "currently happy powerpoint thanks",
       "opportunity": "Looking for a side gig / freelance work",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-09-27",
+      "first_detected": "2026-09-28",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +135,12 @@
       ]
     },
     {
-      "id": "interested-leads-means-plan",
-      "fingerprint": "interested leads means plan",
-      "opportunity": "Show HN: Wet Bulb Tracker Tracker \u2013 sends you humid-heat alerts and forecasts",
+      "id": "can-coding-fail-prove",
+      "fingerprint": "can coding fail prove",
+      "opportunity": "Make your coding agent prove its tests can fail",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-09-27",
+      "first_detected": "2026-09-28",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -160,20 +160,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Wet Bulb Tracker Tracker \u2013 sends you humid-heat alerts and forecasts",
-          "url": "https://news.ycombinator.com/item?id=49863884",
-          "published": "2026-09-27T06:22:17+00:00",
-          "engagement": 4
+          "title": "Make your coding agent prove its tests can fail",
+          "url": "https://www.drjoshcsimmons.com/writing/make-your-coding-agent-prove-its-tests-can-fail",
+          "published": "2026-09-28T10:14:01+00:00",
+          "engagement": 1
         }
       ]
     },
     {
-      "id": "convert-existing-preview-sign",
-      "fingerprint": "convert existing preview sign",
-      "opportunity": "Show HN: AI SVG Generator",
+      "id": "long-one-puts-will",
+      "fingerprint": "long one puts will",
+      "opportunity": "Show HN: Caspian \u2013 Desktop app to build and launch small vibe-coded projects",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-09-27",
+      "first_detected": "2026-09-28",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -193,53 +193,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: AI SVG Generator",
-          "url": "https://imgstyler.com/ai-svg-generator",
-          "published": "2026-09-27T08:43:16+00:00",
-          "engagement": 2
+          "title": "Show HN: Caspian \u2013 Desktop app to build and launch small vibe-coded projects",
+          "url": "https://caspian.md",
+          "published": "2026-09-28T08:41:28+00:00",
+          "engagement": 1
         }
       ]
     },
     {
-      "id": "could-described-like-single",
-      "fingerprint": "could described like single",
-      "opportunity": "Show HN: A Simple GPU Job Scheduler",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-09-27",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: A Simple GPU Job Scheduler",
-          "url": "https://github.com/ceruleane/gpusched",
-          "published": "2026-09-27T08:08:41+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "frustration-sorry-sucks-use",
-      "fingerprint": "frustration sorry sucks use",
+      "id": "every-opportunities-positive-workbooks",
+      "fingerprint": "every opportunities positive workbooks",
       "opportunity": "F@*!ing soul sucking",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-09-27",
+      "first_detected": "2026-09-28",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
