@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-29T10:42:16.203282+00:00",
+  "generated_at": "2026-09-30T10:30:36.050418+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "early-financially-get-watching",
-      "fingerprint": "early financially get watching",
+      "id": "expecting-making-margins-single",
+      "fingerprint": "expecting making margins single",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-09-29",
+      "first_detected": "2026-09-30",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "id": "info-monthly-short-thanks",
-      "fingerprint": "info monthly short thanks",
+      "id": "form-interested-looking-thanks",
+      "fingerprint": "form interested looking thanks",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-09-29",
+      "first_detected": "2026-09-30",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +69,78 @@
       ]
     },
     {
-      "id": "early-here-they-through",
-      "fingerprint": "early here they through",
+      "id": "ago-claude-rejected-team",
+      "fingerprint": "ago claude rejected team",
+      "opportunity": "Getting Banned by ChatGPT, Thrice",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-09-30",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 58
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Getting Banned by ChatGPT, Thrice",
+          "url": "https://news.ycombinator.com/item?id=49906864",
+          "published": "2026-09-30T10:25:13+00:00",
+          "engagement": 2
+        }
+      ]
+    },
+    {
+      "id": "any-can-into-like",
+      "fingerprint": "any can into like",
+      "opportunity": "Show HN: Layout \u2013 Order food anywhere with AI",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-09-30",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 58
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Layout \u2013 Order food anywhere with AI",
+          "url": "https://layout.link/",
+          "published": "2026-09-30T08:55:38+00:00",
+          "engagement": 2
+        }
+      ]
+    },
+    {
+      "id": "day-didn-heard-lessons",
+      "fingerprint": "day didn heard lessons",
       "opportunity": "Two years of 6am mornings before I handed in my notice. Here\u2019s what I wish I\u2019d known earlier. Protecting your time is the whole game early on",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-09-29",
+      "first_detected": "2026-09-30",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +168,12 @@
       ]
     },
     {
-      "id": "agencies-freelance-here-open",
-      "fingerprint": "agencies freelance here open",
+      "id": "can-comfortable-kind-thanks",
+      "fingerprint": "can comfortable kind thanks",
       "opportunity": "Looking for a side gig / freelance work",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-09-29",
+      "first_detected": "2026-09-30",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +201,12 @@
       ]
     },
     {
-      "id": "gmail-linear-try-works",
-      "fingerprint": "gmail linear try works",
-      "opportunity": "Show HN: Real-time Voice Agent works across apps on Mac",
+      "id": "networkpolicies-part-2-the-seccomp-profile-nobody-place-tool",
+      "fingerprint": "networkpolicies part-2-the-seccomp-profile-nobody place tool",
+      "opportunity": "Show HN: Kguardian \u2013 seccomp profiles and NetworkPolicies from eBPF traces",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-09-29",
+      "category": "Service business",
+      "first_detected": "2026-09-30",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -160,20 +226,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Real-time Voice Agent works across apps on Mac",
-          "url": "https://voicecursor.ai/action-mode",
-          "published": "2026-09-29T08:16:03+00:00",
-          "engagement": 2
+          "title": "Show HN: Kguardian \u2013 seccomp profiles and NetworkPolicies from eBPF traces",
+          "url": "https://github.com/kguardian-dev/kguardian",
+          "published": "2026-09-30T07:36:02+00:00",
+          "engagement": 3
         }
       ]
     },
     {
-      "id": "opportunities-platform-submitted-youtube",
-      "fingerprint": "opportunities platform submitted youtube",
+      "id": "chest-day-fund-researching",
+      "fingerprint": "chest day fund researching",
       "opportunity": "F@*!ing soul sucking",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-09-29",
+      "first_detected": "2026-09-30",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
