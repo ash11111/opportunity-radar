@@ -1,47 +1,14 @@
 {
-  "generated_at": "2026-10-01T10:58:12.918921+00:00",
+  "generated_at": "2026-10-02T10:31:17.469032+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "annualized-coding-hits-startup",
-      "fingerprint": "annualized coding hits startup",
-      "opportunity": "AI Coding Startup Cognition Hits $1B in Annualized Revenue",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-01",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 60
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "AI Coding Startup Cognition Hits $1B in Annualized Revenue",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue",
-          "published": "2026-10-01T08:20:03+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "but-early-lightly-reaches",
-      "fingerprint": "but early lightly reaches",
+      "id": "adjusting-can-put-substantial",
+      "fingerprint": "adjusting can put substantial",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-01",
+      "first_detected": "2026-10-02",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +36,12 @@
       ]
     },
     {
-      "id": "client-content-month-please",
-      "fingerprint": "client content month please",
+      "id": "charge-comments-please-works",
+      "fingerprint": "charge comments please works",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-10-01",
+      "first_detected": "2026-10-02",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,144 +69,12 @@
       ]
     },
     {
-      "id": "any-combines-grow-unsubscribe",
-      "fingerprint": "any combines grow unsubscribe",
-      "opportunity": "Show HN: Inbox Cleanup \u2013 get to inbox zero in Gmail",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-01",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 58
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Inbox Cleanup \u2013 get to inbox zero in Gmail",
-          "url": "https://cleanup.upstream.do/",
-          "published": "2026-10-01T10:30:33+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "acts-agent-but-produce",
-      "fingerprint": "acts agent but produce",
-      "opportunity": "Capitalism Can't Handle AI",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-01",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 47,
-        "accessibility": 38,
-        "monetization": 65,
-        "opportunity": 56
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Capitalism Can't Handle AI",
-          "url": "https://news.ycombinator.com/item?id=49919185",
-          "published": "2026-10-01T08:27:21+00:00",
-          "engagement": 9
-        }
-      ]
-    },
-    {
-      "id": "app-like-github-library-made",
-      "fingerprint": "app-like github library made",
-      "opportunity": "Show HN: Ssgoi \u2013 Native app-like page transitions for mobile web",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-01",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 55
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Ssgoi \u2013 Native app-like page transitions for mobile web",
-          "url": "https://ssgoi.dev",
-          "published": "2026-10-01T08:33:28+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "because-early-give-think",
-      "fingerprint": "because early give think",
-      "opportunity": "Two years of 6am mornings before I handed in my notice. Here\u2019s what I wish I\u2019d known earlier. Protecting your time is the whole game early on",
-      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Lead generation / agency",
-      "first_detected": "2026-10-01",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 42,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 54
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Reddit",
-          "source_detail": "r/sidehustle",
-          "title": "Two years of 6am mornings before I handed in my notice. Here\u2019s what I wish I\u2019d known earlier. Protecting your time is the whole game early on",
-          "url": "https://www.reddit.com/r/sidehustle/comments/1wsg8nr/two_years_of_6am_mornings_before_i_handed_in_my/",
-          "published": "2026-09-28T14:32:33+00:00",
-          "engagement": 0
-        }
-      ]
-    },
-    {
-      "id": "income-presentation-profile-tools",
-      "fingerprint": "income presentation profile tools",
+      "id": "sales-small-smaller-virtual",
+      "fingerprint": "sales small smaller virtual",
       "opportunity": "Looking for a side gig / freelance work",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-01",
+      "first_detected": "2026-10-02",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -267,78 +102,12 @@
       ]
     },
     {
-      "id": "about-get-net-things",
-      "fingerprint": "about get net things",
-      "opportunity": "'Things may get ugly': Meta's new AI Muse is about to make the net more annoying",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-01",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "'Things may get ugly': Meta's new AI Muse is about to make the net more annoying",
-          "url": "https://www.bbc.com/future/article/20260930-metas-new-ai-is-about-to-break-the-internet",
-          "published": "2026-10-01T10:23:24+00:00",
-          "engagement": 4
-        }
-      ]
-    },
-    {
-      "id": "agent-but-hesitate-verify",
-      "fingerprint": "agent but hesitate verify",
-      "opportunity": "Show HN: Autobox \u2013 Make your agents sandbox themselves",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-01",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Autobox \u2013 Make your agents sandbox themselves",
-          "url": "https://news.ycombinator.com/item?id=49920001",
-          "published": "2026-10-01T10:34:31+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "but-think-tired-void",
-      "fingerprint": "but think tired void",
+      "id": "decent-frustrated-fund-sole",
+      "fingerprint": "decent frustrated fund sole",
       "opportunity": "F@*!ing soul sucking",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-01",
+      "first_detected": "2026-10-02",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
