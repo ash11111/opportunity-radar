@@ -1,14 +1,47 @@
 {
-  "generated_at": "2026-10-04T10:35:39.827084+00:00",
+  "generated_at": "2026-10-05T11:30:52.301570+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "brings-even-kind-would",
-      "fingerprint": "brings even kind would",
+      "id": "gonna-nice-offers-write",
+      "fingerprint": "gonna nice offers write",
+      "opportunity": "Show HN: Reright.it \u2013 Human approval for agent-written text",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-05",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 46,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 60
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Reright.it \u2013 Human approval for agent-written text",
+          "url": "https://reright.it/",
+          "published": "2026-10-05T10:18:39+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "before-costs-hardest-single",
+      "fingerprint": "before costs hardest single",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-04",
+      "first_detected": "2026-10-05",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +69,12 @@
       ]
     },
     {
-      "id": "edits-monthly-please-reel",
-      "fingerprint": "edits monthly please reel",
+      "id": "client-every-looking-works",
+      "fingerprint": "client every looking works",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-10-04",
+      "first_detected": "2026-10-05",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +102,12 @@
       ]
     },
     {
-      "id": "director-got-meet-prolific",
-      "fingerprint": "director got meet prolific",
+      "id": "mystery-nice-offers-station",
+      "fingerprint": "mystery nice offers station",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-04",
+      "first_detected": "2026-10-05",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +135,12 @@
       ]
     },
     {
-      "id": "additional-happy-ideas-kind",
-      "fingerprint": "additional happy ideas kind",
+      "id": "assistance-data-submitted-work",
+      "fingerprint": "assistance data submitted work",
       "opportunity": "Looking for a side gig / freelance work",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-04",
+      "first_detected": "2026-10-05",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +168,12 @@
       ]
     },
     {
-      "id": "star-template-two-upload",
-      "fingerprint": "star template two upload",
-      "opportunity": "Show HN: ViralReel \u2013 Make the viral Hotel Lobby AI template video in 60 seconds",
+      "id": "language-product-thoughts-user",
+      "fingerprint": "language product thoughts user",
+      "opportunity": "Show HN: daytab \u2013 1.4M human studies aggregated for interventions and outcomes",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-04",
+      "category": "Data / marketplace",
+      "first_detected": "2026-10-05",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -160,20 +193,119 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: ViralReel \u2013 Make the viral Hotel Lobby AI template video in 60 seconds",
-          "url": "https://www.viralreel.app/",
-          "published": "2026-10-04T10:21:56+00:00",
+          "title": "Show HN: daytab \u2013 1.4M human studies aggregated for interventions and outcomes",
+          "url": "https://daytab.com/",
+          "published": "2026-10-05T08:48:38+00:00",
+          "engagement": 3
+        }
+      ]
+    },
+    {
+      "id": "anticipate-months-repos-thoughts",
+      "fingerprint": "anticipate months repos thoughts",
+      "opportunity": "Show HN: Borehole \u2013 acquisition tech due diligence from a repo's Git history",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-05",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Borehole \u2013 acquisition tech due diligence from a repo's Git history",
+          "url": "https://borehole.dev/",
+          "published": "2026-10-05T08:49:41+00:00",
+          "engagement": 2
+        }
+      ]
+    },
+    {
+      "id": "self-serve-sovereign-took-what",
+      "fingerprint": "self-serve sovereign took what",
+      "opportunity": "What it took to make sovereign AI self-serve",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-05",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "What it took to make sovereign AI self-serve",
+          "url": "https://www.union.ai/blog-post/its-now-super-easy-to-start-using-union-ai",
+          "published": "2026-10-05T10:14:27+00:00",
           "engagement": 1
         }
       ]
     },
     {
-      "id": "even-got-ideas-would",
-      "fingerprint": "even got ideas would",
+      "id": "discovered-doubtful-path-red-flag",
+      "fingerprint": "discovered doubtful path red-flag",
+      "opportunity": "Study: Path discovered to make AI models red-flag their doubtful answers",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-05",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Study: Path discovered to make AI models red-flag their doubtful answers",
+          "url": "https://news.ucr.edu/articles/2026/09/23/making-ai-more-trustworthy",
+          "published": "2026-10-05T09:22:04+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "always-opportunities-researching-sole",
+      "fingerprint": "always opportunities researching sole",
       "opportunity": "F@*!ing soul sucking",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-04",
+      "first_detected": "2026-10-05",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
