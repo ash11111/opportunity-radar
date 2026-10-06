@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-05T11:30:52.301570+00:00",
+  "generated_at": "2026-10-06T11:17:34.814679+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "gonna-nice-offers-write",
-      "fingerprint": "gonna nice offers write",
-      "opportunity": "Show HN: Reright.it \u2013 Human approval for agent-written text",
+      "id": "breached-its-notification-push",
+      "fingerprint": "breached its notification push",
+      "opportunity": "ASOS app push notification claims hackers breached its customer data warehouse",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-05",
+      "category": "Data / marketplace",
+      "first_detected": "2026-10-06",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -28,20 +28,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Reright.it \u2013 Human approval for agent-written text",
-          "url": "https://reright.it/",
-          "published": "2026-10-05T10:18:39+00:00",
-          "engagement": 1
+          "title": "ASOS app push notification claims hackers breached its customer data warehouse",
+          "url": "https://bsky.app/profile/bolte.id/post/3mx73ffyskk2s",
+          "published": "2026-10-06T09:11:24+00:00",
+          "engagement": 6
         }
       ]
     },
     {
-      "id": "before-costs-hardest-single",
-      "fingerprint": "before costs hardest single",
+      "id": "actually-another-between-genuinely",
+      "fingerprint": "actually another between genuinely",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-05",
+      "first_detected": "2026-10-06",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +69,12 @@
       ]
     },
     {
-      "id": "client-every-looking-works",
-      "fingerprint": "client every looking works",
+      "id": "clients-earn-monthly-refer",
+      "fingerprint": "clients earn monthly refer",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-10-05",
+      "first_detected": "2026-10-06",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +102,78 @@
       ]
     },
     {
-      "id": "mystery-nice-offers-station",
-      "fingerprint": "mystery nice offers station",
+      "id": "https-llm-peer-too",
+      "fingerprint": "https llm peer too",
+      "opportunity": "Show HN: Acceptodds a prediction market on which ICLR 2027 papers get accepted",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-06",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 58
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Acceptodds a prediction market on which ICLR 2027 papers get accepted",
+          "url": "https://acceptodds.com",
+          "published": "2026-10-06T10:03:26+00:00",
+          "engagement": 6
+        }
+      ]
+    },
+    {
+      "id": "communication-https-providers-right",
+      "fingerprint": "communication https providers right",
+      "opportunity": "Show HN: Use your own Amazon SES account for email workflows",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Service business",
+      "first_detected": "2026-10-06",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 58
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Use your own Amazon SES account for email workflows",
+          "url": "https://news.ycombinator.com/item?id=49975987",
+          "published": "2026-10-06T08:59:11+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "between-time-too-way",
+      "fingerprint": "between time too way",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-05",
+      "first_detected": "2026-10-06",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +201,12 @@
       ]
     },
     {
-      "id": "assistance-data-submitted-work",
-      "fingerprint": "assistance data submitted work",
+      "id": "actually-get-rich-quick-know-mba",
+      "fingerprint": "actually get-rich-quick know mba",
       "opportunity": "Looking for a side gig / freelance work",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-05",
+      "first_detected": "2026-10-06",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,45 +234,12 @@
       ]
     },
     {
-      "id": "language-product-thoughts-user",
-      "fingerprint": "language product thoughts user",
-      "opportunity": "Show HN: daytab \u2013 1.4M human studies aggregated for interventions and outcomes",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Data / marketplace",
-      "first_detected": "2026-10-05",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: daytab \u2013 1.4M human studies aggregated for interventions and outcomes",
-          "url": "https://daytab.com/",
-          "published": "2026-10-05T08:48:38+00:00",
-          "engagement": 3
-        }
-      ]
-    },
-    {
-      "id": "anticipate-months-repos-thoughts",
-      "fingerprint": "anticipate months repos thoughts",
-      "opportunity": "Show HN: Borehole \u2013 acquisition tech due diligence from a repo's Git history",
+      "id": "actually-process-providers-records",
+      "fingerprint": "actually process providers records",
+      "opportunity": "Show HN: Tofu \u2013 let your agent deploy full-stack apps",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-05",
+      "first_detected": "2026-10-06",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -226,86 +259,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Borehole \u2013 acquisition tech due diligence from a repo's Git history",
-          "url": "https://borehole.dev/",
-          "published": "2026-10-05T08:49:41+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "self-serve-sovereign-took-what",
-      "fingerprint": "self-serve sovereign took what",
-      "opportunity": "What it took to make sovereign AI self-serve",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-05",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "What it took to make sovereign AI self-serve",
-          "url": "https://www.union.ai/blog-post/its-now-super-easy-to-start-using-union-ai",
-          "published": "2026-10-05T10:14:27+00:00",
+          "title": "Show HN: Tofu \u2013 let your agent deploy full-stack apps",
+          "url": "https://trytofu.ai",
+          "published": "2026-10-06T11:12:02+00:00",
           "engagement": 1
         }
       ]
     },
     {
-      "id": "discovered-doubtful-path-red-flag",
-      "fingerprint": "discovered doubtful path red-flag",
-      "opportunity": "Study: Path discovered to make AI models red-flag their doubtful answers",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-05",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Study: Path discovered to make AI models red-flag their doubtful answers",
-          "url": "https://news.ucr.edu/articles/2026/09/23/making-ai-more-trustworthy",
-          "published": "2026-10-05T09:22:04+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "always-opportunities-researching-sole",
-      "fingerprint": "always opportunities researching sole",
+      "id": "chest-dude-genuinely-needed",
+      "fingerprint": "chest dude genuinely needed",
       "opportunity": "F@*!ing soul sucking",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-05",
+      "first_detected": "2026-10-06",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
