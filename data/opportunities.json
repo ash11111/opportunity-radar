@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-08T11:23:02.121520+00:00",
+  "generated_at": "2026-10-09T11:20:33.354474+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "long-term-separating-session-transcript",
-      "fingerprint": "long-term separating session transcript",
-      "opportunity": "Separating an agent's session transcript from long-term customer facts",
+      "id": "boom-expects-jump-samsung",
+      "fingerprint": "boom expects jump samsung",
+      "opportunity": "Samsung expects 780% quarterly operating profit jump on AI boom",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-08",
+      "first_detected": "2026-10-09",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -28,20 +28,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Separating an agent's session transcript from long-term customer facts",
-          "url": "https://www.twilio.com/en-us/blog/developers/building-agent-twilio-conversations-eve",
-          "published": "2026-10-08T10:12:49+00:00",
-          "engagement": 1
+          "title": "Samsung expects 780% quarterly operating profit jump on AI boom",
+          "url": "https://www.france24.com/en/live-news/20261008-samsung-expects-780-quarterly-operating-profit-jump-on-ai-boom",
+          "published": "2026-10-09T10:38:00+00:00",
+          "engagement": 2
         }
       ]
     },
     {
-      "id": "all-barely-number-running",
-      "fingerprint": "all barely number running",
+      "id": "doing-expecting-financially-work",
+      "fingerprint": "doing expecting financially work",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-08",
+      "first_detected": "2026-10-09",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +69,12 @@
       ]
     },
     {
-      "id": "clients-looking-reel-submitted",
-      "fingerprint": "clients looking reel submitted",
+      "id": "anyone-looking-month-pipeline",
+      "fingerprint": "anyone looking month pipeline",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-10-08",
+      "first_detected": "2026-10-09",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +102,78 @@
       ]
     },
     {
-      "id": "phone-tips-where-yeah",
-      "fingerprint": "phone tips where yeah",
+      "id": "away-client-side-possible-stay",
+      "fingerprint": "away client-side possible stay",
+      "opportunity": "Show HN: Client-side image cropping for any file input, without coding",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Lead generation / agency",
+      "first_detected": "2026-10-09",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 58
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Client-side image cropping for any file input, without coding",
+          "url": "https://cropguide.io/#demo",
+          "published": "2026-10-09T11:01:56+00:00",
+          "engagement": 2
+        }
+      ]
+    },
+    {
+      "id": "coding-possible-things-was",
+      "fingerprint": "coding possible things was",
+      "opportunity": "Show HN: All Things Banana \u2013 banana news, prices, and a daily Wikipedia game",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-09",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 46,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 55
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: All Things Banana \u2013 banana news, prices, and a daily Wikipedia game",
+          "url": "https://allthingsbanana.com/",
+          "published": "2026-10-09T11:12:59+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "after-day-director-work",
+      "fingerprint": "after day director work",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-08",
+      "first_detected": "2026-10-09",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +201,12 @@
       ]
     },
     {
-      "id": "clients-presentation-things-where",
-      "fingerprint": "clients presentation things where",
+      "id": "after-sales-schemes-work",
+      "fingerprint": "after sales schemes work",
       "opportunity": "Looking for a side gig / freelance work",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-08",
+      "first_detected": "2026-10-09",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,12 +234,12 @@
       ]
     },
     {
-      "id": "hey-launch-reduce-waste",
-      "fingerprint": "hey launch reduce waste",
-      "opportunity": "Show HN: Coding Agent with Cost Saving Built-In",
+      "id": "asked-ever-nobody-than",
+      "fingerprint": "asked ever nobody than",
+      "opportunity": "AI has made it easier than ever to make apps nobody asked for",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-08",
+      "first_detected": "2026-10-09",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -181,7 +247,7 @@
         "momentum": 43,
         "novelty": 92,
         "saturation": 20,
-        "evidence": 34,
+        "evidence": 35,
         "accessibility": 62,
         "monetization": 38,
         "opportunity": 53
@@ -193,119 +259,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Coding Agent with Cost Saving Built-In",
-          "url": "https://www.wiyomi.com/",
-          "published": "2026-10-08T10:46:53+00:00",
-          "engagement": 2
+          "title": "AI has made it easier than ever to make apps nobody asked for",
+          "url": "https://boakandbailey.com/2026/09/ai-has-made-it-easier-than-ever-to-make-apps-nobody-asked-for/",
+          "published": "2026-10-09T08:32:00+00:00",
+          "engagement": 8
         }
       ]
     },
     {
-      "id": "atom-feeds-rss-rss-a",
-      "fingerprint": "atom feeds rss rss-a",
-      "opportunity": "RSS-A \u2013 signed RSS/Atom feeds and groups for AI agents",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-08",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "RSS-A \u2013 signed RSS/Atom feeds and groups for AI agents",
-          "url": "https://github.com/getvda-ai/rssa",
-          "published": "2026-10-08T10:36:28+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "animation-edited-might-reel",
-      "fingerprint": "animation edited might reel",
-      "opportunity": "Show HN: Runbook and scripts for Claude to edit raw footage in DaVinci Resolve",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-08",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Runbook and scripts for Claude to edit raw footage in DaVinci Resolve",
-          "url": "https://blog.simbastack.com/claude-edited-my-youtube-videos-davinci-resolve/",
-          "published": "2026-10-08T10:10:39+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "kafka-learn-very-where",
-      "fingerprint": "kafka learn very where",
-      "opportunity": "Show HN: Staffcoder, hands-on practice for modern frameworks in a browser IDE",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-08",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Staffcoder, hands-on practice for modern frameworks in a browser IDE",
-          "url": "https://www.staffcoder.com",
-          "published": "2026-10-08T10:28:42+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "all-husband-phone-thinks",
-      "fingerprint": "all husband phone thinks",
+      "id": "day-ideas-scrolling-want",
+      "fingerprint": "day ideas scrolling want",
       "opportunity": "F@*!ing soul sucking",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-08",
+      "first_detected": "2026-10-09",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
