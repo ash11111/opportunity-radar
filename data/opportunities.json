@@ -1,47 +1,14 @@
 {
-  "generated_at": "2026-10-09T11:20:33.354474+00:00",
+  "generated_at": "2026-10-10T10:37:21.004153+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "boom-expects-jump-samsung",
-      "fingerprint": "boom expects jump samsung",
-      "opportunity": "Samsung expects 780% quarterly operating profit jump on AI boom",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-09",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 60
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Samsung expects 780% quarterly operating profit jump on AI boom",
-          "url": "https://www.france24.com/en/live-news/20261008-samsung-expects-780-quarterly-operating-profit-jump-on-ai-boom",
-          "published": "2026-10-09T10:38:00+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "doing-expecting-financially-work",
-      "fingerprint": "doing expecting financially work",
+      "id": "all-link-setting-spoken",
+      "fingerprint": "all link setting spoken",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-09",
+      "first_detected": "2026-10-10",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +36,12 @@
       ]
     },
     {
-      "id": "anyone-looking-month-pipeline",
-      "fingerprint": "anyone looking month pipeline",
+      "id": "edits-ifeelanime-short-submitted",
+      "fingerprint": "edits ifeelanime short submitted",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-10-09",
+      "first_detected": "2026-10-10",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +69,12 @@
       ]
     },
     {
-      "id": "away-client-side-possible-stay",
-      "fingerprint": "away client-side possible stay",
-      "opportunity": "Show HN: Client-side image cropping for any file input, without coding",
+      "id": "aravind-markdown-scores-window",
+      "fingerprint": "aravind markdown scores window",
+      "opportunity": "Show HN: Check how readable your docs are to AI agents",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Lead generation / agency",
-      "first_detected": "2026-10-09",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-10",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -127,20 +94,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Client-side image cropping for any file input, without coding",
-          "url": "https://cropguide.io/#demo",
-          "published": "2026-10-09T11:01:56+00:00",
-          "engagement": 2
+          "title": "Show HN: Check how readable your docs are to AI agents",
+          "url": "https://www.veludocs.com/agent-friendly-documentation/",
+          "published": "2026-10-10T06:48:05+00:00",
+          "engagement": 1
         }
       ]
     },
     {
-      "id": "coding-possible-things-was",
-      "fingerprint": "coding possible things was",
-      "opportunity": "Show HN: All Things Banana \u2013 banana news, prices, and a daily Wikipedia game",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-09",
+      "id": "nothing-only-submitted-work",
+      "fingerprint": "nothing only submitted work",
+      "opportunity": "I'm looking for a sidehustle that I can do from my home office to supplement my English tutoring work (I cannot sell them things because it is on a platform)",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Data / marketplace",
+      "first_detected": "2026-10-10",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -148,32 +115,32 @@
         "momentum": 43,
         "novelty": 92,
         "saturation": 20,
-        "evidence": 46,
+        "evidence": 30,
         "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 55
+        "monetization": 65,
+        "opportunity": 57
       },
       "lifecycle": "Very Early",
       "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
       "evidence_label": "Discussion signal only",
       "sources": [
         {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: All Things Banana \u2013 banana news, prices, and a daily Wikipedia game",
-          "url": "https://allthingsbanana.com/",
-          "published": "2026-10-09T11:12:59+00:00",
-          "engagement": 1
+          "source": "Reddit",
+          "source_detail": "r/sidehustle",
+          "title": "I'm looking for a sidehustle that I can do from my home office to supplement my English tutoring work (I cannot sell them things because it is on a platform)",
+          "url": "https://www.reddit.com/r/sidehustle/comments/1x1u1jw/im_looking_for_a_sidehustle_that_i_can_do_from_my/",
+          "published": "2026-10-09T19:07:59+00:00",
+          "engagement": 0
         }
       ]
     },
     {
-      "id": "after-day-director-work",
-      "fingerprint": "after day director work",
+      "id": "all-have-link-much",
+      "fingerprint": "all have link much",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-09",
+      "first_detected": "2026-10-10",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,12 +168,12 @@
       ]
     },
     {
-      "id": "after-sales-schemes-work",
-      "fingerprint": "after sales schemes work",
+      "id": "clients-get-rich-quick-here-marketing",
+      "fingerprint": "clients get-rich-quick here marketing",
       "opportunity": "Looking for a side gig / freelance work",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-09",
+      "first_detected": "2026-10-10",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -234,12 +201,12 @@
       ]
     },
     {
-      "id": "asked-ever-nobody-than",
-      "fingerprint": "asked ever nobody than",
-      "opportunity": "AI has made it easier than ever to make apps nobody asked for",
+      "id": "every-nothing-reading-set",
+      "fingerprint": "every nothing reading set",
+      "opportunity": "Show HN: Open Components \u2013 UI Components standard for people, devs and AI agents",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-09",
+      "first_detected": "2026-10-10",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -247,7 +214,7 @@
         "momentum": 43,
         "novelty": 92,
         "saturation": 20,
-        "evidence": 35,
+        "evidence": 34,
         "accessibility": 62,
         "monetization": 38,
         "opportunity": 53
@@ -259,20 +226,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "AI has made it easier than ever to make apps nobody asked for",
-          "url": "https://boakandbailey.com/2026/09/ai-has-made-it-easier-than-ever-to-make-apps-nobody-asked-for/",
-          "published": "2026-10-09T08:32:00+00:00",
-          "engagement": 8
+          "title": "Show HN: Open Components \u2013 UI Components standard for people, devs and AI agents",
+          "url": "https://opencomponents.dev/",
+          "published": "2026-10-10T08:24:05+00:00",
+          "engagement": 5
         }
       ]
     },
     {
-      "id": "day-ideas-scrolling-want",
-      "fingerprint": "day ideas scrolling want",
+      "id": "all-every-set-vacation",
+      "fingerprint": "all every set vacation",
       "opportunity": "F@*!ing soul sucking",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-09",
+      "first_detected": "2026-10-10",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
