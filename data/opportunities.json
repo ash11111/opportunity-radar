@@ -1,14 +1,113 @@
 {
-  "generated_at": "2026-10-12T12:00:56.896123+00:00",
+  "generated_at": "2026-10-13T11:49:41.068086+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "against-revenue-sale-thought",
-      "fingerprint": "against revenue sale thought",
+      "id": "logic-non-possible-premium",
+      "fingerprint": "logic non possible premium",
+      "opportunity": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-13",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 46,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 60
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+          "url": "https://github.com/LargeModGames/spotatui",
+          "published": "2026-10-13T11:32:00+00:00",
+          "engagement": 2
+        }
+      ]
+    },
+    {
+      "id": "else-once-run-seeing",
+      "fingerprint": "else once run seeing",
+      "opportunity": "Show HN: Laya guard \u2013 a local check before your coding agent runs a command",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-13",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 46,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 60
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Laya guard \u2013 a local check before your coding agent runs a command",
+          "url": "https://github.com/scs0209/laya-guard",
+          "published": "2026-10-13T11:22:25+00:00",
+          "engagement": 2
+        }
+      ]
+    },
+    {
+      "id": "built-in-calendar-chrome-slack",
+      "fingerprint": "built-in calendar chrome slack",
+      "opportunity": "Show HN: Made a good work assistant but can't promote it. Like Viktor.com",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-13",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 46,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 60
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Made a good work assistant but can't promote it. Like Viktor.com",
+          "url": "https://news.ycombinator.com/item?id=50069663",
+          "published": "2026-10-13T10:50:13+00:00",
+          "engagement": 2
+        }
+      ]
+    },
+    {
+      "id": "else-once-slowing-subscriptions",
+      "fingerprint": "else once slowing subscriptions",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-12",
+      "first_detected": "2026-10-13",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +135,12 @@
       ]
     },
     {
-      "id": "add-interested-small-thanks",
-      "fingerprint": "add interested small thanks",
+      "id": "currently-editing-edits-please",
+      "fingerprint": "currently editing edits please",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-10-12",
+      "first_detected": "2026-10-13",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,45 +168,12 @@
       ]
     },
     {
-      "id": "code-including-mcp-native",
-      "fingerprint": "code including mcp native",
-      "opportunity": "Show HN: DBJoy \u2013 An open-source AI-first PostgreSQL client for macOS",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-12",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 58
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: DBJoy \u2013 An open-source AI-first PostgreSQL client for macOS",
-          "url": "https://github.com/agustind/dbjoy",
-          "published": "2026-10-12T10:32:53+00:00",
-          "engagement": 3
-        }
-      ]
-    },
-    {
-      "id": "english-platform-process-supplement",
-      "fingerprint": "english platform process supplement",
+      "id": "because-even-sign-up-supplement",
+      "fingerprint": "because even sign-up supplement",
       "opportunity": "I'm looking for a sidehustle that I can do from my home office to supplement my English tutoring work (I cannot sell them things because it is on a platform)",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-10-12",
+      "first_detected": "2026-10-13",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +201,12 @@
       ]
     },
     {
-      "id": "add-commits-decided-detect",
-      "fingerprint": "add commits decided detect",
-      "opportunity": "Show HN: I made an AI free version of my directory of open-source alternatives",
+      "id": "comes-enjoyed-native-once",
+      "fingerprint": "comes enjoyed native once",
+      "opportunity": "Show HN: Ret \u2013 An inbox and canvas for your Codex and Claude Code agents",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-12",
+      "first_detected": "2026-10-13",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -160,53 +226,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: I made an AI free version of my directory of open-source alternatives",
-          "url": "https://noai.openaltfinder.com/",
-          "published": "2026-10-12T09:01:39+00:00",
-          "engagement": 5
+          "title": "Show HN: Ret \u2013 An inbox and canvas for your Codex and Claude Code agents",
+          "url": "https://getret.app/",
+          "published": "2026-10-13T11:02:22+00:00",
+          "engagement": 2
         }
       ]
     },
     {
-      "id": "every-same-scoring-used",
-      "fingerprint": "every same scoring used",
-      "opportunity": "Show HN: An open source AI leaderboard of the best models your machine can run",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-12",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 55
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: An open source AI leaderboard of the best models your machine can run",
-          "url": "https://whatmodel.sh",
-          "published": "2026-10-12T09:18:42+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "job-multitasking-prolific-time",
-      "fingerprint": "job multitasking prolific time",
+      "id": "avenues-finished-multitasking-run",
+      "fingerprint": "avenues finished multitasking run",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-12",
+      "first_detected": "2026-10-13",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -234,12 +267,12 @@
       ]
     },
     {
-      "id": "competitor-have-thanks-writing",
-      "fingerprint": "competitor have thanks writing",
+      "id": "additional-any-mlms-speed",
+      "fingerprint": "additional any mlms speed",
       "opportunity": "Looking for a side gig / freelance work",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-12",
+      "first_detected": "2026-10-13",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -267,12 +300,12 @@
       ]
     },
     {
-      "id": "days-quoted-static-time",
-      "fingerprint": "days quoted static time",
-      "opportunity": "Show HN: A calendar of every Chinese holiday your supplier will cite as a delay",
+      "id": "experiment-lmk-strain-under",
+      "fingerprint": "experiment lmk strain under",
+      "opportunity": "Show HN: Acceptodds a Prediction Market for Research",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Lead generation / agency",
-      "first_detected": "2026-10-12",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-13",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -292,20 +325,86 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: A calendar of every Chinese holiday your supplier will cite as a delay",
-          "url": "https://afterchinesenewyear.pages.dev/",
-          "published": "2026-10-12T10:09:54+00:00",
+          "title": "Show HN: Acceptodds a Prediction Market for Research",
+          "url": "https://acceptodds.com",
+          "published": "2026-10-13T11:43:29+00:00",
           "engagement": 1
         }
       ]
     },
     {
-      "id": "dwindling-husband-stocks-wiggle",
-      "fingerprint": "dwindling husband stocks wiggle",
+      "id": "grocery-kept-seeing-weekly",
+      "fingerprint": "grocery kept seeing weekly",
+      "opportunity": "Show HN: Forkcast, a meal planner and tracker with focus on weekly planning",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-13",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Forkcast, a meal planner and tracker with focus on weekly planning",
+          "url": "https://check-forkcast.tizzy.dev/",
+          "published": "2026-10-13T11:38:24+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "lawsuit-meta-organization-refuses",
+      "fingerprint": "lawsuit meta organization refuses",
+      "opportunity": "NL organization preparing lawsuit after Meta refuses to stop selling AI glasses",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-13",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "NL organization preparing lawsuit after Meta refuses to stop selling AI glasses",
+          "url": "https://nltimes.nl/2026/10/13/dutch-organization-preparing-lawsuit-meta-refuses-stop-selling-ai-glasses",
+          "published": "2026-10-13T11:21:52+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "all-channels-phone-vacation",
+      "fingerprint": "all channels phone vacation",
       "opportunity": "F@*!ing soul sucking",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-12",
+      "first_detected": "2026-10-13",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
