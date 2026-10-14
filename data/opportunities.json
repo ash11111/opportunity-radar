@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-13T11:49:41.068086+00:00",
+  "generated_at": "2026-10-14T09:32:27.449014+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "logic-non-possible-premium",
-      "fingerprint": "logic non possible premium",
-      "opportunity": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-13",
+      "id": "have-not-throughout-touched",
+      "fingerprint": "have not throughout touched",
+      "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Creator monetization",
+      "first_detected": "2026-10-14",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -16,98 +16,32 @@
         "momentum": 43,
         "novelty": 92,
         "saturation": 20,
-        "evidence": 46,
+        "evidence": 42,
         "accessibility": 62,
         "monetization": 65,
-        "opportunity": 60
+        "opportunity": 59
       },
       "lifecycle": "Very Early",
       "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
       "evidence_label": "Discussion signal only",
       "sources": [
         {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-          "url": "https://github.com/LargeModGames/spotatui",
-          "published": "2026-10-13T11:32:00+00:00",
-          "engagement": 2
+          "source": "Reddit",
+          "source_detail": "r/sidehustle",
+          "title": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
+          "url": "https://www.reddit.com/r/sidehustle/comments/1x56nda/been_filming_my_hobby_for_11_months_and_recently/",
+          "published": "2026-10-13T19:44:03+00:00",
+          "engagement": 0
         }
       ]
     },
     {
-      "id": "else-once-run-seeing",
-      "fingerprint": "else once run seeing",
-      "opportunity": "Show HN: Laya guard \u2013 a local check before your coding agent runs a command",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-13",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 60
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Laya guard \u2013 a local check before your coding agent runs a command",
-          "url": "https://github.com/scs0209/laya-guard",
-          "published": "2026-10-13T11:22:25+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "built-in-calendar-chrome-slack",
-      "fingerprint": "built-in calendar chrome slack",
-      "opportunity": "Show HN: Made a good work assistant but can't promote it. Like Viktor.com",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-13",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 60
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Made a good work assistant but can't promote it. Like Viktor.com",
-          "url": "https://news.ycombinator.com/item?id=50069663",
-          "published": "2026-10-13T10:50:13+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "else-once-slowing-subscriptions",
-      "fingerprint": "else once slowing subscriptions",
+      "id": "feels-life-not-something",
+      "fingerprint": "feels life not something",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-13",
+      "first_detected": "2026-10-14",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +69,12 @@
       ]
     },
     {
-      "id": "currently-editing-edits-please",
-      "fingerprint": "currently editing edits please",
+      "id": "edits-form-link-refer",
+      "fingerprint": "edits form link refer",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-10-13",
+      "first_detected": "2026-10-14",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,12 +102,12 @@
       ]
     },
     {
-      "id": "because-even-sign-up-supplement",
-      "fingerprint": "because even sign-up supplement",
+      "id": "even-hour-link-videocalling",
+      "fingerprint": "even hour link videocalling",
       "opportunity": "I'm looking for a sidehustle that I can do from my home office to supplement my English tutoring work (I cannot sell them things because it is on a platform)",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-10-13",
+      "first_detected": "2026-10-14",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,12 +135,12 @@
       ]
     },
     {
-      "id": "comes-enjoyed-native-once",
-      "fingerprint": "comes enjoyed native once",
-      "opportunity": "Show HN: Ret \u2013 An inbox and canvas for your Codex and Claude Code agents",
+      "id": "congrats-notes-safes-startup",
+      "fingerprint": "congrats notes safes startup",
+      "opportunity": "Show HN: AI investment agreement review for startup founders",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-13",
+      "first_detected": "2026-10-14",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -226,20 +160,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Ret \u2013 An inbox and canvas for your Codex and Claude Code agents",
-          "url": "https://getret.app/",
-          "published": "2026-10-13T11:02:22+00:00",
-          "engagement": 2
+          "title": "Show HN: AI investment agreement review for startup founders",
+          "url": "https://www.orchardagentic.cloud/#browse/funding-review",
+          "published": "2026-10-14T09:13:00+00:00",
+          "engagement": 1
         }
       ]
     },
     {
-      "id": "avenues-finished-multitasking-run",
-      "fingerprint": "avenues finished multitasking run",
+      "id": "director-feels-not-unemployed",
+      "fingerprint": "director feels not unemployed",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-13",
+      "first_detected": "2026-10-14",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -267,12 +201,12 @@
       ]
     },
     {
-      "id": "additional-any-mlms-speed",
-      "fingerprint": "additional any mlms speed",
+      "id": "businesses-have-not-side",
+      "fingerprint": "businesses have not side",
       "opportunity": "Looking for a side gig / freelance work",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-13",
+      "first_detected": "2026-10-14",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -300,12 +234,12 @@
       ]
     },
     {
-      "id": "experiment-lmk-strain-under",
-      "fingerprint": "experiment lmk strain under",
-      "opportunity": "Show HN: Acceptodds a Prediction Market for Research",
+      "id": "decision-each-time-tool",
+      "fingerprint": "decision each time tool",
+      "opportunity": "Tool or automation? You make the decision each time",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-13",
+      "first_detected": "2026-10-14",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -325,86 +259,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Acceptodds a Prediction Market for Research",
-          "url": "https://acceptodds.com",
-          "published": "2026-10-13T11:43:29+00:00",
+          "title": "Tool or automation? You make the decision each time",
+          "url": "https://claude.ai/public/artifacts/81970b33-4697-4226-aef6-ca669d900d68",
+          "published": "2026-10-14T06:44:19+00:00",
           "engagement": 1
         }
       ]
     },
     {
-      "id": "grocery-kept-seeing-weekly",
-      "fingerprint": "grocery kept seeing weekly",
-      "opportunity": "Show HN: Forkcast, a meal planner and tracker with focus on weekly planning",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-13",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Forkcast, a meal planner and tracker with focus on weekly planning",
-          "url": "https://check-forkcast.tizzy.dev/",
-          "published": "2026-10-13T11:38:24+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "lawsuit-meta-organization-refuses",
-      "fingerprint": "lawsuit meta organization refuses",
-      "opportunity": "NL organization preparing lawsuit after Meta refuses to stop selling AI glasses",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-13",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "NL organization preparing lawsuit after Meta refuses to stop selling AI glasses",
-          "url": "https://nltimes.nl/2026/10/13/dutch-organization-preparing-lawsuit-meta-refuses-stop-selling-ai-glasses",
-          "published": "2026-10-13T11:21:52+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "all-channels-phone-vacation",
-      "fingerprint": "all channels phone vacation",
+      "id": "best-have-invest-not",
+      "fingerprint": "best have invest not",
       "opportunity": "F@*!ing soul sucking",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-13",
+      "first_detected": "2026-10-14",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
