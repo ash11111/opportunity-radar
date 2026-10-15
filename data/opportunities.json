@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-14T09:32:27.449014+00:00",
+  "generated_at": "2026-10-15T09:09:46.245338+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "have-not-throughout-touched",
-      "fingerprint": "have not throughout touched",
+      "id": "don-overall-parts-spend",
+      "fingerprint": "don overall parts spend",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-14",
+      "first_detected": "2026-10-15",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "id": "feels-life-not-something",
-      "fingerprint": "feels life not something",
+      "id": "before-concept-everything-thought",
+      "fingerprint": "before concept everything thought",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-14",
+      "first_detected": "2026-10-15",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +69,12 @@
       ]
     },
     {
-      "id": "edits-form-link-refer",
-      "fingerprint": "edits form link refer",
+      "id": "agency-charge-link-month",
+      "fingerprint": "agency charge link month",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-10-14",
+      "first_detected": "2026-10-15",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,78 +102,12 @@
       ]
     },
     {
-      "id": "even-hour-link-videocalling",
-      "fingerprint": "even hour link videocalling",
-      "opportunity": "I'm looking for a sidehustle that I can do from my home office to supplement my English tutoring work (I cannot sell them things because it is on a platform)",
-      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Data / marketplace",
-      "first_detected": "2026-10-14",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 30,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 57
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Reddit",
-          "source_detail": "r/sidehustle",
-          "title": "I'm looking for a sidehustle that I can do from my home office to supplement my English tutoring work (I cannot sell them things because it is on a platform)",
-          "url": "https://www.reddit.com/r/sidehustle/comments/1x1u1jw/im_looking_for_a_sidehustle_that_i_can_do_from_my/",
-          "published": "2026-10-09T19:07:59+00:00",
-          "engagement": 0
-        }
-      ]
-    },
-    {
-      "id": "congrats-notes-safes-startup",
-      "fingerprint": "congrats notes safes startup",
-      "opportunity": "Show HN: AI investment agreement review for startup founders",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-14",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 55
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: AI investment agreement review for startup founders",
-          "url": "https://www.orchardagentic.cloud/#browse/funding-review",
-          "published": "2026-10-14T09:13:00+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "director-feels-not-unemployed",
-      "fingerprint": "director feels not unemployed",
+      "id": "doordash-offer-overall-side",
+      "fingerprint": "doordash offer overall side",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-14",
+      "first_detected": "2026-10-15",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,12 +135,12 @@
       ]
     },
     {
-      "id": "businesses-have-not-side",
-      "fingerprint": "businesses have not side",
+      "id": "income-pitch-presentations-side",
+      "fingerprint": "income pitch presentations side",
       "opportunity": "Looking for a side gig / freelance work",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-14",
+      "first_detected": "2026-10-15",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -234,12 +168,12 @@
       ]
     },
     {
-      "id": "decision-each-time-tool",
-      "fingerprint": "decision each time tool",
-      "opportunity": "Tool or automation? You make the decision each time",
+      "id": "again-connect-overall-thought",
+      "fingerprint": "again connect overall thought",
+      "opportunity": "Show HN: Working on Plug and play AI memory that works across AI agents",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-14",
+      "first_detected": "2026-10-15",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -259,20 +193,53 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Tool or automation? You make the decision each time",
-          "url": "https://claude.ai/public/artifacts/81970b33-4697-4226-aef6-ca669d900d68",
-          "published": "2026-10-14T06:44:19+00:00",
+          "title": "Show HN: Working on Plug and play AI memory that works across AI agents",
+          "url": "https://news.ycombinator.com/item?id=50100700",
+          "published": "2026-10-15T08:02:49+00:00",
           "engagement": 1
         }
       ]
     },
     {
-      "id": "best-have-invest-not",
-      "fingerprint": "best have invest not",
+      "id": "concept-overall-rounds-thought",
+      "fingerprint": "concept overall rounds thought",
+      "opportunity": "Show HN: Daily image location guessing agains AI",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-15",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Daily image location guessing agains AI",
+          "url": "https://mediaguesser.com/human-vs-ai",
+          "published": "2026-10-15T06:29:23+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "disenchanted-guys-side-why",
+      "fingerprint": "disenchanted guys side why",
       "opportunity": "F@*!ing soul sucking",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-14",
+      "first_detected": "2026-10-15",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
