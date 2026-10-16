@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-15T09:09:46.245338+00:00",
+  "generated_at": "2026-10-16T09:02:31.160058+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "don-overall-parts-spend",
-      "fingerprint": "don overall parts spend",
+      "id": "certain-hitting-out-three",
+      "fingerprint": "certain hitting out three",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-15",
+      "first_detected": "2026-10-16",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "id": "before-concept-everything-thought",
-      "fingerprint": "before concept everything thought",
+      "id": "expectations-hitting-huge-personally",
+      "fingerprint": "expectations hitting huge personally",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-15",
+      "first_detected": "2026-10-16",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +69,12 @@
       ]
     },
     {
-      "id": "agency-charge-link-month",
-      "fingerprint": "agency charge link month",
+      "id": "edits-ifeelanime-interested-short",
+      "fingerprint": "edits ifeelanime interested short",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-10-15",
+      "first_detected": "2026-10-16",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +102,78 @@
       ]
     },
     {
-      "id": "doordash-offer-overall-side",
-      "fingerprint": "doordash offer overall side",
+      "id": "everything-pro-projects-workflows",
+      "fingerprint": "everything pro projects workflows",
+      "opportunity": "Show HN: Gitsu.app \u2013 A Linear-alternative built on GitHub Projects",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-16",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 35,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 58
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Gitsu.app \u2013 A Linear-alternative built on GitHub Projects",
+          "url": "https://gitsu.app/",
+          "published": "2026-10-16T05:42:21+00:00",
+          "engagement": 8
+        }
+      ]
+    },
+    {
+      "id": "creator-jobs-made-out",
+      "fingerprint": "creator jobs made out",
+      "opportunity": "best route for me? open to anything except AI",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-16",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 38,
+        "monetization": 65,
+        "opportunity": 55
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/sidehustle",
+          "title": "best route for me? open to anything except AI",
+          "url": "https://www.reddit.com/r/sidehustle/comments/1x6pf3a/best_route_for_me_open_to_anything_except_ai/",
+          "published": "2026-10-15T15:54:27+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "made-mcdonald-prolific-three",
+      "fingerprint": "made mcdonald prolific three",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-15",
+      "first_detected": "2026-10-16",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +201,12 @@
       ]
     },
     {
-      "id": "income-pitch-presentations-side",
-      "fingerprint": "income pitch presentations side",
+      "id": "any-build-sales-wtfdoyoumeanitswater",
+      "fingerprint": "any build sales wtfdoyoumeanitswater",
       "opportunity": "Looking for a side gig / freelance work",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-15",
+      "first_detected": "2026-10-16",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,78 +234,12 @@
       ]
     },
     {
-      "id": "again-connect-overall-thought",
-      "fingerprint": "again connect overall thought",
-      "opportunity": "Show HN: Working on Plug and play AI memory that works across AI agents",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-15",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Working on Plug and play AI memory that works across AI agents",
-          "url": "https://news.ycombinator.com/item?id=50100700",
-          "published": "2026-10-15T08:02:49+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "concept-overall-rounds-thought",
-      "fingerprint": "concept overall rounds thought",
-      "opportunity": "Show HN: Daily image location guessing agains AI",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-15",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Daily image location guessing agains AI",
-          "url": "https://mediaguesser.com/human-vs-ai",
-          "published": "2026-10-15T06:29:23+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "disenchanted-guys-side-why",
-      "fingerprint": "disenchanted guys side why",
+      "id": "disenchanted-ebooks-hard-made",
+      "fingerprint": "disenchanted ebooks hard made",
       "opportunity": "F@*!ing soul sucking",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-15",
+      "first_detected": "2026-10-16",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -263,6 +263,39 @@
           "url": "https://www.reddit.com/r/sidehustle/comments/1vzi7ji/fing_soul_sucking/",
           "published": "2026-08-27T03:03:41+00:00",
           "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "incentives-jobs-made-marked",
+      "fingerprint": "incentives jobs made marked",
+      "opportunity": "AI as a part of capitalism \u2013 the right way to go",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-16",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 38,
+        "monetization": 38,
+        "opportunity": 49
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "AI as a part of capitalism \u2013 the right way to go",
+          "url": "https://news.ycombinator.com/item?id=50115335",
+          "published": "2026-10-16T07:38:27+00:00",
+          "engagement": 2
         }
       ]
     }
