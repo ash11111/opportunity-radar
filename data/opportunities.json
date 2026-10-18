@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-17T08:34:34.193228+00:00",
+  "generated_at": "2026-10-18T08:51:50.177833+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "bail-currently-full-out",
-      "fingerprint": "bail currently full out",
+      "id": "bar-extra-more-noticed",
+      "fingerprint": "bar extra more noticed",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-17",
+      "first_detected": "2026-10-18",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "id": "automatically-barely-proud-track",
-      "fingerprint": "automatically barely proud track",
+      "id": "anything-involved-like-single",
+      "fingerprint": "anything involved like single",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-17",
+      "first_detected": "2026-10-18",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +69,12 @@
       ]
     },
     {
-      "id": "earn-own-refer-short",
-      "fingerprint": "earn own refer short",
+      "id": "info-more-submitted-till",
+      "fingerprint": "info more submitted till",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-10-17",
+      "first_detected": "2026-10-18",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +102,12 @@
       ]
     },
     {
-      "id": "member-much-out-tips",
-      "fingerprint": "member much out tips",
+      "id": "longer-person-role-selling",
+      "fingerprint": "longer person role selling",
       "opportunity": "best route for me? open to anything except AI",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-17",
+      "first_detected": "2026-10-18",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +135,12 @@
       ]
     },
     {
-      "id": "flower-inspiration-out-supplies",
-      "fingerprint": "flower inspiration out supplies",
+      "id": "always-dollars-reaching-side",
+      "fingerprint": "always dollars reaching side",
       "opportunity": "Balloon flowers side hustle",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-10-17",
+      "first_detected": "2026-10-18",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,12 +168,12 @@
       ]
     },
     {
-      "id": "full-months-should-tips",
-      "fingerprint": "full months should tips",
+      "id": "like-restaurants-side-still",
+      "fingerprint": "like restaurants side still",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-17",
+      "first_detected": "2026-10-18",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,111 +201,12 @@
       ]
     },
     {
-      "id": "currently-ideas-small-submitted",
-      "fingerprint": "currently ideas small submitted",
-      "opportunity": "Looking for a side gig / freelance work",
-      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-17",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 42,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 54
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Reddit",
-          "source_detail": "r/sidehustle",
-          "title": "Looking for a side gig / freelance work",
-          "url": "https://www.reddit.com/r/sidehustle/comments/1whwbx3/looking_for_a_side_gig_freelance_work/",
-          "published": "2026-09-16T12:50:22+00:00",
-          "engagement": 0
-        }
-      ]
-    },
-    {
-      "id": "decomp-has-made-too",
-      "fingerprint": "decomp has made too",
-      "opportunity": "Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-17",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games",
-          "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
-          "published": "2026-10-17T06:44:13+00:00",
-          "engagement": 5
-        }
-      ]
-    },
-    {
-      "id": "all-may-simple-small",
-      "fingerprint": "all may simple small",
-      "opportunity": "Show HN: Cwist; a hobby-grade C17 web framework that keeps your app simple",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Data / marketplace",
-      "first_detected": "2026-10-17",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Cwist; a hobby-grade C17 web framework that keeps your app simple",
-          "url": "https://github.com/c4punks/cwist",
-          "published": "2026-10-17T06:06:10+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "disenchanted-much-sucking-workbooks",
-      "fingerprint": "disenchanted much sucking workbooks",
+      "id": "always-like-side-sucks",
+      "fingerprint": "always like side sucks",
       "opportunity": "F@*!ing soul sucking",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-17",
+      "first_detected": "2026-10-18",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
