@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-20T09:26:07.736712+00:00",
+  "generated_at": "2026-10-21T09:22:50.884193+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "actual-helps-little-part",
-      "fingerprint": "actual helps little part",
+      "id": "contact-editing-floor-help",
+      "fingerprint": "contact editing floor help",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-20",
+      "first_detected": "2026-10-21",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "id": "all-anything-grateful-never",
-      "fingerprint": "all anything grateful never",
+      "id": "bring-built-changed-pay",
+      "fingerprint": "bring built changed pay",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-20",
+      "first_detected": "2026-10-21",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +69,12 @@
       ]
     },
     {
-      "id": "comments-edits-form-pipeline",
-      "fingerprint": "comments edits form pipeline",
+      "id": "agency-earn-pay-till",
+      "fingerprint": "agency earn pay till",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-10-20",
+      "first_detected": "2026-10-21",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +102,45 @@
       ]
     },
     {
-      "id": "anything-etc-license-part",
-      "fingerprint": "anything etc license part",
+      "id": "built-like-needs-replaced",
+      "fingerprint": "built like needs replaced",
+      "opportunity": "I got a little over 5K in 8 months using my old tech and about 2h a day",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-21",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 57
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/sidehustle",
+          "title": "I got a little over 5K in 8 months using my old tech and about 2h a day",
+          "url": "https://www.reddit.com/r/sidehustle/comments/1xauhh3/i_got_a_little_over_5k_in_8_months_using_my_old/",
+          "published": "2026-10-20T15:02:05+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "family-like-pay-side",
+      "fingerprint": "family like pay side",
       "opportunity": "best route for me? open to anything except AI",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-20",
+      "first_detected": "2026-10-21",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +168,12 @@
       ]
     },
     {
-      "id": "all-always-give-never",
-      "fingerprint": "all always give never",
+      "id": "bring-family-post-side",
+      "fingerprint": "bring family post side",
       "opportunity": "Balloon flowers side hustle",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-10-20",
+      "first_detected": "2026-10-21",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,12 +201,12 @@
       ]
     },
     {
-      "id": "accept-all-never-programming",
-      "fingerprint": "accept all never programming",
+      "id": "head-like-prolific-side",
+      "fingerprint": "head like prolific side",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-20",
+      "first_detected": "2026-10-21",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,12 +234,12 @@
       ]
     },
     {
-      "id": "inside-most-resist-use",
-      "fingerprint": "inside most resist use",
-      "opportunity": "Show HN: Civ 1 period accurate decompilation",
+      "id": "built-first-show-startups",
+      "fingerprint": "built first show startups",
+      "opportunity": "Show HN: Grafista \u2013 AI graphic designer built to fight slop",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-20",
+      "first_detected": "2026-10-21",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -226,53 +259,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Civ 1 period accurate decompilation",
-          "url": "https://github.com/sjmelia/civd",
-          "published": "2026-10-20T09:05:58+00:00",
-          "engagement": 5
-        }
-      ]
-    },
-    {
-      "id": "all-always-never-organizing",
-      "fingerprint": "all always never organizing",
-      "opportunity": "CPU-native. Deterministic. O(1) processes. \u2013 the Old New Coolness",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-20",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "CPU-native. Deterministic. O(1) processes. \u2013 the Old New Coolness",
-          "url": "https://news.ycombinator.com/item?id=50162847",
-          "published": "2026-10-20T08:15:12+00:00",
+          "title": "Show HN: Grafista \u2013 AI graphic designer built to fight slop",
+          "url": "https://grafista.io/",
+          "published": "2026-10-21T06:43:17+00:00",
           "engagement": 3
         }
       ]
     },
     {
-      "id": "better-else-internet-worse",
-      "fingerprint": "better else internet worse",
-      "opportunity": "Making the internet better for AI agents might make it worse for everyone else",
+      "id": "collected-might-week-what",
+      "fingerprint": "collected might week what",
+      "opportunity": "Ask HN: What should I do with 50k verified emails",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-20",
+      "category": "Data / marketplace",
+      "first_detected": "2026-10-21",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -292,43 +292,43 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Making the internet better for AI agents might make it worse for everyone else",
-          "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-          "published": "2026-10-20T07:02:41+00:00",
+          "title": "Ask HN: What should I do with 50k verified emails",
+          "url": "https://news.ycombinator.com/item?id=50177842",
+          "published": "2026-10-21T08:57:35+00:00",
           "engagement": 2
         }
       ]
     },
     {
-      "id": "all-always-little-really",
-      "fingerprint": "all always little really",
-      "opportunity": "F@*!ing soul sucking",
-      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Creator monetization",
-      "first_detected": "2026-10-20",
+      "id": "authentication-built-signs-startups",
+      "fingerprint": "authentication built signs startups",
+      "opportunity": "Launch HN: Alter (YC S25) \u2013 Access control for multi-user agents",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-21",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
       "scores": {
-        "momentum": 43,
+        "momentum": 44,
         "novelty": 92,
         "saturation": 20,
-        "evidence": 30,
-        "accessibility": 62,
+        "evidence": 35,
+        "accessibility": 38,
         "monetization": 38,
-        "opportunity": 52
+        "opportunity": 49
       },
       "lifecycle": "Very Early",
       "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
       "evidence_label": "Discussion signal only",
       "sources": [
         {
-          "source": "Reddit",
-          "source_detail": "r/sidehustle",
-          "title": "F@*!ing soul sucking",
-          "url": "https://www.reddit.com/r/sidehustle/comments/1vzi7ji/fing_soul_sucking/",
-          "published": "2026-08-27T03:03:41+00:00",
-          "engagement": 0
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Launch HN: Alter (YC S25) \u2013 Access control for multi-user agents",
+          "url": "https://alterauth.com/",
+          "published": "2026-10-21T06:42:12+00:00",
+          "engagement": 14
         }
       ]
     }
