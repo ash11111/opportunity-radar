@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-21T09:22:50.884193+00:00",
+  "generated_at": "2026-10-22T09:25:25.039640+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "contact-editing-floor-help",
-      "fingerprint": "contact editing floor help",
+      "id": "asking-casio-space-which",
+      "fingerprint": "asking casio space which",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-21",
+      "first_detected": "2026-10-22",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "id": "bring-built-changed-pay",
-      "fingerprint": "bring built changed pay",
+      "id": "dollar-humbling-know-many",
+      "fingerprint": "dollar humbling know many",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-21",
+      "first_detected": "2026-10-22",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +69,12 @@
       ]
     },
     {
-      "id": "agency-earn-pay-till",
-      "fingerprint": "agency earn pay till",
+      "id": "earn-form-refer-short",
+      "fingerprint": "earn form refer short",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-10-21",
+      "first_detected": "2026-10-22",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +102,111 @@
       ]
     },
     {
-      "id": "built-like-needs-replaced",
-      "fingerprint": "built like needs replaced",
+      "id": "releasing-similar-though-which",
+      "fingerprint": "releasing similar though which",
+      "opportunity": "Show HN: Open-source Claude skills to replace Higgsfield",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-22",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 58
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Open-source Claude skills to replace Higgsfield",
+          "url": "https://github.com/SupercmoHQ/superCMO-skills",
+          "published": "2026-10-22T06:03:55+00:00",
+          "engagement": 2
+        }
+      ]
+    },
+    {
+      "id": "bundling-far-shortwave-which",
+      "fingerprint": "bundling far shortwave which",
+      "opportunity": "Show HN: NeoInbox, a recreation of Google Inbox as a Thunderbird extension",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Lead generation / agency",
+      "first_detected": "2026-10-22",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 58
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: NeoInbox, a recreation of Google Inbox as a Thunderbird extension",
+          "url": "https://neoinbox.freakified.net/",
+          "published": "2026-10-22T08:55:42+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "printpixel-quality-show-size",
+      "fingerprint": "printpixel quality show size",
+      "opportunity": "Show HN: PrintPixel Tool \u2013 Client-side image print size and quality calculator",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Lead generation / agency",
+      "first_detected": "2026-10-22",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 58
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: PrintPixel Tool \u2013 Client-side image print size and quality calculator",
+          "url": "https://printpixeltool.com/",
+          "published": "2026-10-22T08:54:09+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "generous-hard-test-which",
+      "fingerprint": "generous hard test which",
       "opportunity": "I got a little over 5K in 8 months using my old tech and about 2h a day",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-21",
+      "first_detected": "2026-10-22",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +234,12 @@
       ]
     },
     {
-      "id": "family-like-pay-side",
-      "fingerprint": "family like pay side",
+      "id": "conflicts-know-level-which",
+      "fingerprint": "conflicts know level which",
       "opportunity": "best route for me? open to anything except AI",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-21",
+      "first_detected": "2026-10-22",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,12 +267,45 @@
       ]
     },
     {
-      "id": "bring-family-post-side",
-      "fingerprint": "bring family post side",
+      "id": "habit-many-search-which",
+      "fingerprint": "habit many search which",
+      "opportunity": "Been reading reddit complaints for a year and it's recently turned into almost $1600/month",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-10-22",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 54
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/sidehustle",
+          "title": "Been reading reddit complaints for a year and it's recently turned into almost $1600/month",
+          "url": "https://www.reddit.com/r/sidehustle/comments/1xblyb6/been_reading_reddit_complaints_for_a_year_and_its/",
+          "published": "2026-10-21T12:35:09+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "day-extra-hard-stay",
+      "fingerprint": "day extra hard stay",
       "opportunity": "Balloon flowers side hustle",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-10-21",
+      "first_detected": "2026-10-22",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,12 +333,12 @@
       ]
     },
     {
-      "id": "head-like-prolific-side",
-      "fingerprint": "head like prolific side",
+      "id": "after-many-study-weekday",
+      "fingerprint": "after many study weekday",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-21",
+      "first_detected": "2026-10-22",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -234,45 +366,12 @@
       ]
     },
     {
-      "id": "built-first-show-startups",
-      "fingerprint": "built first show startups",
-      "opportunity": "Show HN: Grafista \u2013 AI graphic designer built to fight slop",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-21",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Grafista \u2013 AI graphic designer built to fight slop",
-          "url": "https://grafista.io/",
-          "published": "2026-10-21T06:43:17+00:00",
-          "engagement": 3
-        }
-      ]
-    },
-    {
-      "id": "collected-might-week-what",
-      "fingerprint": "collected might week what",
-      "opportunity": "Ask HN: What should I do with 50k verified emails",
+      "id": "generate-know-model-which",
+      "fingerprint": "generate know model which",
+      "opportunity": "Show HN: Tinytowns, a small model to generate realistic sounding town names",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-10-21",
+      "first_detected": "2026-10-22",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -292,31 +391,31 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Ask HN: What should I do with 50k verified emails",
-          "url": "https://news.ycombinator.com/item?id=50177842",
-          "published": "2026-10-21T08:57:35+00:00",
+          "title": "Show HN: Tinytowns, a small model to generate realistic sounding town names",
+          "url": "https://quirkyagents.com/wizard/projects/tinytowns/",
+          "published": "2026-10-22T08:57:59+00:00",
           "engagement": 2
         }
       ]
     },
     {
-      "id": "authentication-built-signs-startups",
-      "fingerprint": "authentication built signs startups",
-      "opportunity": "Launch HN: Alter (YC S25) \u2013 Access control for multi-user agents",
+      "id": "apps-bank-show-statements",
+      "fingerprint": "apps bank show statements",
+      "opportunity": "Show HN: The Companion Lab \u2013 What 7 AI companion apps charge on bank statements",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-21",
+      "first_detected": "2026-10-22",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
       "scores": {
-        "momentum": 44,
+        "momentum": 43,
         "novelty": 92,
         "saturation": 20,
-        "evidence": 35,
-        "accessibility": 38,
+        "evidence": 34,
+        "accessibility": 62,
         "monetization": 38,
-        "opportunity": 49
+        "opportunity": 53
       },
       "lifecycle": "Very Early",
       "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
@@ -325,10 +424,76 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Launch HN: Alter (YC S25) \u2013 Access control for multi-user agents",
-          "url": "https://alterauth.com/",
-          "published": "2026-10-21T06:42:12+00:00",
-          "engagement": 14
+          "title": "Show HN: The Companion Lab \u2013 What 7 AI companion apps charge on bank statements",
+          "url": "https://thecompanionlab.com/billing/",
+          "published": "2026-10-22T08:50:25+00:00",
+          "engagement": 2
+        }
+      ]
+    },
+    {
+      "id": "enterprises-software-upgrades-worse",
+      "fingerprint": "enterprises software upgrades worse",
+      "opportunity": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-10-22",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+          "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+          "published": "2026-10-22T07:02:38+00:00",
+          "engagement": 2
+        }
+      ]
+    },
+    {
+      "id": "equipped-finds-first-months",
+      "fingerprint": "equipped finds first months",
+      "opportunity": "Show HN: Shay.me \u2013 Personal AI assistant to get things done",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-22",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Shay.me \u2013 Personal AI assistant to get things done",
+          "url": "https://news.ycombinator.com/item?id=50192988",
+          "published": "2026-10-22T09:01:58+00:00",
+          "engagement": 1
         }
       ]
     }
