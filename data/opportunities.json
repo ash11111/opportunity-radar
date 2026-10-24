@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-23T09:21:44.327760+00:00",
+  "generated_at": "2026-10-24T08:53:35.913972+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "actual-creative-started-time",
-      "fingerprint": "actual creative started time",
+      "id": "comes-over-three-top",
+      "fingerprint": "comes over three top",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-23",
+      "first_detected": "2026-10-24",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "id": "between-bring-off-story",
-      "fingerprint": "between bring off story",
+      "id": "different-enough-even-mine",
+      "fingerprint": "different enough even mine",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-23",
+      "first_detected": "2026-10-24",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +69,12 @@
       ]
     },
     {
-      "id": "agency-content-hmu-info",
-      "fingerprint": "agency content hmu info",
+      "id": "agency-content-refer-small",
+      "fingerprint": "agency content refer small",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-10-23",
+      "first_detected": "2026-10-24",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +102,12 @@
       ]
     },
     {
-      "id": "internal-twelve-want-whatever",
-      "fingerprint": "internal twelve want whatever",
+      "id": "enough-library-specific-top",
+      "fingerprint": "enough library specific top",
       "opportunity": "I got a little over 5K in 8 months using my old tech and about 2h a day",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-23",
+      "first_detected": "2026-10-24",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +135,12 @@
       ]
     },
     {
-      "id": "clinics-pictures-started-time",
-      "fingerprint": "clinics pictures started time",
+      "id": "additional-anyone-delivery-even",
+      "fingerprint": "additional anyone delivery even",
       "opportunity": "best route for me? open to anything except AI",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-23",
+      "first_detected": "2026-10-24",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,12 +168,12 @@
       ]
     },
     {
-      "id": "bring-day-off-why",
-      "fingerprint": "bring day off why",
+      "id": "enough-inspiration-made-others",
+      "fingerprint": "enough inspiration made others",
       "opportunity": "Balloon flowers side hustle",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-10-23",
+      "first_detected": "2026-10-24",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,12 +201,12 @@
       ]
     },
     {
-      "id": "between-hustles-ipsos-off",
-      "fingerprint": "between hustles ipsos off",
+      "id": "anyone-being-dash-three",
+      "fingerprint": "anyone being dash three",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-23",
+      "first_detected": "2026-10-24",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -230,6 +230,39 @@
           "url": "https://www.reddit.com/r/sidehustle/comments/1wwxd13/multitasking_is_my_side_hustle/",
           "published": "2026-10-03T20:37:34+00:00",
           "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "latch-line-show-usable",
+      "fingerprint": "latch line show usable",
+      "opportunity": "Show HN: Latch \u2013 Make any website usable by AI agents in one line (WebMCP)",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-24",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Latch \u2013 Make any website usable by AI agents in one line (WebMCP)",
+          "url": "https://latch.tools/",
+          "published": "2026-10-24T05:41:41+00:00",
+          "engagement": 2
         }
       ]
     }
