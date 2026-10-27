@@ -1,47 +1,14 @@
 {
-  "generated_at": "2026-10-26T10:09:07.191829+00:00",
+  "generated_at": "2026-10-27T09:49:50.021251+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "huang-nvidia-per-revenue",
-      "fingerprint": "huang nvidia per revenue",
-      "opportunity": "Nvidia Eyes Software Revenue with a $2k per GPU Yearly Figure from Huang",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-26",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 60
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Nvidia Eyes Software Revenue with a $2k per GPU Yearly Figure from Huang",
-          "url": "https://www.techpowerup.com/354113/nvidia-eyes-software-revenue-with-a-usd-2-000-per-gpu-yearly-figure-from-huang",
-          "published": "2026-10-26T07:31:03+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "build-overall-reddit-revenue",
-      "fingerprint": "build overall reddit revenue",
+      "id": "hitting-silent1mezzo-something-thing",
+      "fingerprint": "hitting silent1mezzo something thing",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-26",
+      "first_detected": "2026-10-27",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +36,12 @@
       ]
     },
     {
-      "id": "built-expecting-revenue-substantial",
-      "fingerprint": "built expecting revenue substantial",
+      "id": "enough-hardest-hitting-something",
+      "fingerprint": "enough hardest hitting something",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-26",
+      "first_detected": "2026-10-27",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +69,12 @@
       ]
     },
     {
-      "id": "charge-content-hmu-thanks",
-      "fingerprint": "charge content hmu thanks",
+      "id": "anyone-editing-please-short",
+      "fingerprint": "anyone editing please short",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-10-26",
+      "first_detected": "2026-10-27",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +102,12 @@
       ]
     },
     {
-      "id": "approval-built-cursor-threat",
-      "fingerprint": "approval built cursor threat",
-      "opportunity": "MCP-warden local credential broker so AI agents never see your secrets",
+      "id": "api-golang-ollama-support",
+      "fingerprint": "api golang ollama support",
+      "opportunity": "Show HN: Ollama client library for Golang with streaming API support",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-26",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-10-27",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -160,20 +127,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "MCP-warden local credential broker so AI agents never see your secrets",
-          "url": "https://news.ycombinator.com/item?id=50241410",
-          "published": "2026-10-26T09:57:32+00:00",
-          "engagement": 3
+          "title": "Show HN: Ollama client library for Golang with streaming API support",
+          "url": "https://github.com/okunix/gollama",
+          "published": "2026-10-27T09:28:35+00:00",
+          "engagement": 1
         }
       ]
     },
     {
-      "id": "built-happen-rest-whether",
-      "fingerprint": "built happen rest whether",
+      "id": "claude-dropping-enough-replace",
+      "fingerprint": "claude dropping enough replace",
       "opportunity": "I got a little over 5K in 8 months using my old tech and about 2h a day",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-26",
+      "first_detected": "2026-10-27",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,12 +168,12 @@
       ]
     },
     {
-      "id": "anything-cats-content-med",
-      "fingerprint": "anything cats content med",
+      "id": "donation-please-remote-something",
+      "fingerprint": "donation please remote something",
       "opportunity": "best route for me? open to anything except AI",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-26",
+      "first_detected": "2026-10-27",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -234,12 +201,12 @@
       ]
     },
     {
-      "id": "dollars-haven-internet-more",
-      "fingerprint": "dollars haven internet more",
+      "id": "alone-gig-something-thing",
+      "fingerprint": "alone gig something thing",
       "opportunity": "Balloon flowers side hustle",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-10-26",
+      "first_detected": "2026-10-27",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -267,12 +234,12 @@
       ]
     },
     {
-      "id": "multitasking-offers-operator-overall",
-      "fingerprint": "multitasking offers operator overall",
+      "id": "because-owns-recently-tips",
+      "fingerprint": "because owns recently tips",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-26",
+      "first_detected": "2026-10-27",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -300,111 +267,12 @@
       ]
     },
     {
-      "id": "google-replayed-verbatim-was",
-      "fingerprint": "google replayed verbatim was",
-      "opportunity": "Show HN: Continue Your Google AI Mode Chats in Gemini/Claude",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-26",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Continue Your Google AI Mode Chats in Gemini/Claude",
-          "url": "https://chromewebstore.google.com/detail/relay-continue-google-sea/fjjfadgooapnegipjocinojjhaajghag",
-          "published": "2026-10-26T07:35:56+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "america-boom-chipmakers-earnings",
-      "fingerprint": "america boom chipmakers earnings",
-      "opportunity": "Two AI Chipmakers Make Up 34% of America's Earnings Boom",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-26",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Two AI Chipmakers Make Up 34% of America's Earnings Boom",
-          "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
-          "published": "2026-10-26T09:17:05+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "arcanemachine-instead-screen-separate",
-      "fingerprint": "arcanemachine instead screen separate",
-      "opportunity": "Show HN: pw-repl - A Playwright-powered REPL for you and your agents to share",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-10-26",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: pw-repl - A Playwright-powered REPL for you and your agents to share",
-          "url": "https://github.com/arcanemachine/pw-repl",
-          "published": "2026-10-26T07:28:33+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "book-build-reason-thanks",
-      "fingerprint": "book build reason thanks",
+      "id": "design-games-something-spare",
+      "fingerprint": "design games something spare",
       "opportunity": "I have 3 ideas for side business but no idea to start",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-26",
+      "first_detected": "2026-10-27",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
