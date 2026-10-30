@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-29T10:54:13.320350+00:00",
+  "generated_at": "2026-10-30T10:52:22.141358+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "attached-fumbling-hour-take",
-      "fingerprint": "attached fumbling hour take",
+      "id": "submitted-take-tools-want",
+      "fingerprint": "submitted take tools want",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-10-29",
+      "first_detected": "2026-10-30",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "id": "concept-pay-take-yours",
-      "fingerprint": "concept pay take yours",
+      "id": "has-once-submitted-take",
+      "fingerprint": "has once submitted take",
       "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Software / micro-SaaS",
-      "first_detected": "2026-10-29",
+      "first_detected": "2026-10-30",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +69,12 @@
       ]
     },
     {
-      "id": "comments-more-pay-reel",
-      "fingerprint": "comments more pay reel",
+      "id": "client-comments-pay-submitted",
+      "fingerprint": "client comments pay submitted",
       "opportunity": "Earn monthly $$ refer me clients for short form content editing",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Lead generation / agency",
-      "first_detected": "2026-10-29",
+      "first_detected": "2026-10-30",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +102,78 @@
       ]
     },
     {
-      "id": "cut-deck-enhances-summarizes",
-      "fingerprint": "cut deck enhances summarizes",
+      "id": "aims-launch-music-next",
+      "fingerprint": "aims launch music next",
+      "opportunity": "Spotify aims to launch AI music remix service early next year",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-30",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 58
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Spotify aims to launch AI music remix service early next year",
+          "url": "https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b",
+          "published": "2026-10-30T08:16:44+00:00",
+          "engagement": 3
+        }
+      ]
+    },
+    {
+      "id": "api-client-inspector-keyboard-driven",
+      "fingerprint": "api client inspector keyboard-driven",
+      "opportunity": "Show HN: Ghostman \u2013 A fast, keyboard-driven TUI API client and webhook inspector",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-10-30",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 58
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Ghostman \u2013 A fast, keyboard-driven TUI API client and webhook inspector",
+          "url": "https://github.com/4yk5/Ghostman",
+          "published": "2026-10-30T07:48:40+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "adds-loom-submitted-summaries",
+      "fingerprint": "adds loom submitted summaries",
       "opportunity": "I got a little over 5K in 8 months using my old tech and about 2h a day",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-29",
+      "first_detected": "2026-10-30",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +201,12 @@
       ]
     },
     {
-      "id": "isn-pay-started-there",
-      "fingerprint": "isn pay started there",
+      "id": "car-creator-home-submitted",
+      "fingerprint": "car creator home submitted",
       "opportunity": "best route for me? open to anything except AI",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-29",
+      "first_detected": "2026-10-30",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,12 +234,12 @@
       ]
     },
     {
-      "id": "come-isn-mentioned-there",
-      "fingerprint": "come isn mentioned there",
+      "id": "basic-home-pick-submitted",
+      "fingerprint": "basic home pick submitted",
       "opportunity": "Balloon flowers side hustle",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-10-29",
+      "first_detected": "2026-10-30",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,12 +267,12 @@
       ]
     },
     {
-      "id": "same-take-unemployed-week",
-      "fingerprint": "same take unemployed week",
+      "id": "car-reduced-submitted-take",
+      "fingerprint": "car reduced submitted take",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-29",
+      "first_detected": "2026-10-30",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -234,12 +300,45 @@
       ]
     },
     {
-      "id": "bother-started-take-there",
-      "fingerprint": "bother started take there",
+      "id": "disclose-moonshot-not-paid",
+      "fingerprint": "disclose moonshot not paid",
+      "opportunity": "Moonshot AI asking influencers not to disclose posts as paid when promoting Kimi",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-10-30",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Moonshot AI asking influencers not to disclose posts as paid when promoting Kimi",
+          "url": "https://twitter.com/elshayib_/status/2113710752741892476",
+          "published": "2026-10-30T10:47:35+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "besides-submitted-take-want",
+      "fingerprint": "besides submitted take want",
       "opportunity": "I have 3 ideas for side business but no idea to start",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-10-29",
+      "first_detected": "2026-10-30",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
