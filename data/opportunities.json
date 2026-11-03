@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-02T12:26:19.743929+00:00",
+  "generated_at": "2026-11-03T11:56:38.642617+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "around-bar-fumbling-time",
-      "fingerprint": "around bar fumbling time",
+      "id": "increases-since-think-years",
+      "fingerprint": "increases since think years",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-11-02",
+      "first_detected": "2026-11-03",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,45 +36,12 @@
       ]
     },
     {
-      "id": "everything-involved-like-understanding",
-      "fingerprint": "everything involved like understanding",
-      "opportunity": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
-      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Software / micro-SaaS",
-      "first_detected": "2026-11-02",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 42,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 59
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Reddit",
-          "source_detail": "r/sidehustle",
-          "title": "On track for $225k in app revenue this year, but it feels like I\u2019ve barely made anything",
-          "url": "https://www.reddit.com/r/sidehustle/comments/1wfry3x/on_track_for_225k_in_app_revenue_this_year_but_it/",
-          "published": "2026-09-14T03:15:11+00:00",
-          "engagement": 0
-        }
-      ]
-    },
-    {
-      "id": "gives-need-still-submitted",
-      "fingerprint": "gives need still submitted",
+      "id": "comment-hunting-own-stands",
+      "fingerprint": "comment hunting own stands",
       "opportunity": "I got a little over 5K in 8 months using my old tech and about 2h a day",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-02",
+      "first_detected": "2026-11-03",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +69,12 @@
       ]
     },
     {
-      "id": "like-link-need-time",
-      "fingerprint": "like link need time",
+      "id": "btw-either-hobbies-need",
+      "fingerprint": "btw either hobbies need",
       "opportunity": "best route for me? open to anything except AI",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-02",
+      "first_detected": "2026-11-03",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +102,12 @@
       ]
     },
     {
-      "id": "alone-link-submitted-time",
-      "fingerprint": "alone link submitted time",
+      "id": "basic-comeback-either-think",
+      "fingerprint": "basic comeback either think",
       "opportunity": "Balloon flowers side hustle",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-11-02",
+      "first_detected": "2026-11-03",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,12 +135,12 @@
       ]
     },
     {
-      "id": "like-run-still-time",
-      "fingerprint": "like run still time",
+      "id": "paying-way-yeah-years",
+      "fingerprint": "paying way yeah years",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-02",
+      "first_detected": "2026-11-03",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,12 +168,12 @@
       ]
     },
     {
-      "id": "directory-file-mktemp-temporary",
-      "fingerprint": "directory file mktemp temporary",
-      "opportunity": "Mktemp: Make unique temporary file or directory",
+      "id": "block-linux-too-way",
+      "fingerprint": "block linux too way",
+      "opportunity": "Show HN: Site/app blocker and usage tracker specifically for Linux",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Data / marketplace",
-      "first_detected": "2026-11-02",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-03",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -226,20 +193,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Mktemp: Make unique temporary file or directory",
-          "url": "https://www.mktemp.org/docs/mktemp.man/",
-          "published": "2026-11-02T09:31:47+00:00",
+          "title": "Show HN: Site/app blocker and usage tracker specifically for Linux",
+          "url": "https://github.com/glocker-app/glocker",
+          "published": "2026-11-03T08:56:18+00:00",
           "engagement": 1
         }
       ]
     },
     {
-      "id": "interested-like-still-time",
-      "fingerprint": "interested like still time",
+      "id": "besides-need-way-years",
+      "fingerprint": "besides need way years",
       "opportunity": "I have 3 ideas for side business but no idea to start",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-02",
+      "first_detected": "2026-11-03",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
