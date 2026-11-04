@@ -1,14 +1,80 @@
 {
-  "generated_at": "2026-11-03T11:56:38.642617+00:00",
+  "generated_at": "2026-11-04T12:10:04.102273+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "increases-since-think-years",
-      "fingerprint": "increases since think years",
+      "id": "keep-means-off-years",
+      "fingerprint": "keep means off years",
+      "opportunity": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-04",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 48,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 41,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 60
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+          "url": "https://news.ycombinator.com/item?id=50363461",
+          "published": "2026-11-04T10:10:27+00:00",
+          "engagement": 107
+        }
+      ]
+    },
+    {
+      "id": "advice-customer-takeover-what",
+      "fingerprint": "advice customer takeover what",
+      "opportunity": "(UK) 0 hour contract with work - preparing for maternity leave",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-04",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/sidehustle",
+          "title": "(UK) 0 hour contract with work - preparing for maternity leave",
+          "url": "https://www.reddit.com/r/sidehustle/comments/1xn7v2j/uk_0_hour_contract_with_work_preparing_for/",
+          "published": "2026-11-03T22:53:15+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "first-hobby-months-years",
+      "fingerprint": "first hobby months years",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-11-03",
+      "first_detected": "2026-11-04",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +102,12 @@
       ]
     },
     {
-      "id": "comment-hunting-own-stands",
-      "fingerprint": "comment hunting own stands",
+      "id": "big-copy-generates-integrations",
+      "fingerprint": "big copy generates integrations",
       "opportunity": "I got a little over 5K in 8 months using my old tech and about 2h a day",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-03",
+      "first_detected": "2026-11-04",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +135,12 @@
       ]
     },
     {
-      "id": "btw-either-hobbies-need",
-      "fingerprint": "btw either hobbies need",
+      "id": "customer-need-person-related",
+      "fingerprint": "customer need person related",
       "opportunity": "best route for me? open to anything except AI",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-03",
+      "first_detected": "2026-11-04",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +168,12 @@
       ]
     },
     {
-      "id": "basic-comeback-either-think",
-      "fingerprint": "basic comeback either think",
+      "id": "alone-look-never-off",
+      "fingerprint": "alone look never off",
       "opportunity": "Balloon flowers side hustle",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-11-03",
+      "first_detected": "2026-11-04",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +201,12 @@
       ]
     },
     {
-      "id": "paying-way-yeah-years",
-      "fingerprint": "paying way yeah years",
+      "id": "hustling-months-never-sometimes",
+      "fingerprint": "hustling months never sometimes",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-03",
+      "first_detected": "2026-11-04",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,12 +234,12 @@
       ]
     },
     {
-      "id": "block-linux-too-way",
-      "fingerprint": "block linux too way",
-      "opportunity": "Show HN: Site/app blocker and usage tracker specifically for Linux",
+      "id": "hits-look-means-visible",
+      "fingerprint": "hits look means visible",
+      "opportunity": "Show HN: Hormuz Signal \u2013 Iran war escalation risk from real data",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-03",
+      "category": "Data / marketplace",
+      "first_detected": "2026-11-04",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -193,20 +259,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Site/app blocker and usage tracker specifically for Linux",
-          "url": "https://github.com/glocker-app/glocker",
-          "published": "2026-11-03T08:56:18+00:00",
-          "engagement": 1
+          "title": "Show HN: Hormuz Signal \u2013 Iran war escalation risk from real data",
+          "url": "https://www.HormuzSignal.com/",
+          "published": "2026-11-04T09:22:38+00:00",
+          "engagement": 2
         }
       ]
     },
     {
-      "id": "besides-need-way-years",
-      "fingerprint": "besides need way years",
+      "id": "interested-need-never-years",
+      "fingerprint": "interested need never years",
       "opportunity": "I have 3 ideas for side business but no idea to start",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-03",
+      "first_detected": "2026-11-04",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
