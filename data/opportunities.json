@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-05T12:23:13.416206+00:00",
-  "raw_items_seen": 194,
+  "generated_at": "2026-11-06T12:08:14.436791+00:00",
+  "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "hours-june-more-sick",
-      "fingerprint": "hours june more sick",
+      "id": "maternity-submitted-technically-time",
+      "fingerprint": "maternity submitted technically time",
       "opportunity": "(UK) 0 hour contract with work - preparing for maternity leave",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-05",
+      "first_detected": "2026-11-06",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "id": "anyone-left-most-tools",
-      "fingerprint": "anyone left most tools",
+      "id": "because-consists-some-workflow",
+      "fingerprint": "because consists some workflow",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-11-05",
+      "first_detected": "2026-11-06",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,78 +69,12 @@
       ]
     },
     {
-      "id": "most-subscription-task-tools",
-      "fingerprint": "most subscription task tools",
-      "opportunity": "Show HN: Nico \u2013 a two-agent type personal agent on your Mac",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-05",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 58
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Nico \u2013 a two-agent type personal agent on your Mac",
-          "url": "https://nico.app/",
-          "published": "2026-11-05T11:21:00+00:00",
-          "engagement": 3
-        }
-      ]
-    },
-    {
-      "id": "andrej-here-pool-watched",
-      "fingerprint": "andrej here pool watched",
-      "opportunity": "Show HN: OOO - Build your own YouTube recommendation feed",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Creator monetization",
-      "first_detected": "2026-11-05",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 58
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: OOO - Build your own YouTube recommendation feed",
-          "url": "https://ooo.blue",
-          "published": "2026-11-05T11:58:46+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "most-see-server-zero",
-      "fingerprint": "most see server zero",
+      "id": "comments-freepik-huge-person",
+      "fingerprint": "comments freepik huge person",
       "opportunity": "I got a little over 5K in 8 months using my old tech and about 2h a day",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-05",
+      "first_detected": "2026-11-06",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,12 +102,12 @@
       ]
     },
     {
-      "id": "anyone-sick-started-used",
-      "fingerprint": "anyone sick started used",
+      "id": "person-testing-thinking-time",
+      "fingerprint": "person testing thinking time",
       "opportunity": "best route for me? open to anything except AI",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-05",
+      "first_detected": "2026-11-06",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,12 +135,12 @@
       ]
     },
     {
-      "id": "gig-hard-keep-supplies",
-      "fingerprint": "gig hard keep supplies",
+      "id": "comments-seen-time-upfront",
+      "fingerprint": "comments seen time upfront",
       "opportunity": "Balloon flowers side hustle",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-11-05",
+      "first_detected": "2026-11-06",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -234,12 +168,12 @@
       ]
     },
     {
-      "id": "anyone-keep-meet-several",
-      "fingerprint": "anyone keep meet several",
+      "id": "because-owner-thinking-time",
+      "fingerprint": "because owner thinking time",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-05",
+      "first_detected": "2026-11-06",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -267,12 +201,12 @@
       ]
     },
     {
-      "id": "keep-most-owner-path",
-      "fingerprint": "keep most owner path",
-      "opportunity": "Show HN: teletap \u2013 Your remote coding agents ask you when stuck",
+      "id": "agents-hack-launch-site",
+      "fingerprint": "agents hack launch site",
+      "opportunity": "Launch a swarm of obliterated AI agents to hack your site",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-05",
+      "first_detected": "2026-11-06",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -292,20 +226,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: teletap \u2013 Your remote coding agents ask you when stuck",
-          "url": "https://news.ycombinator.com/item?id=50377644",
-          "published": "2026-11-05T10:49:44+00:00",
-          "engagement": 1
+          "title": "Launch a swarm of obliterated AI agents to hack your site",
+          "url": "https://mockhack.com",
+          "published": "2026-11-06T11:45:59+00:00",
+          "engagement": 3
         }
       ]
     },
     {
-      "id": "doing-ideas-most-which",
-      "fingerprint": "doing ideas most which",
+      "id": "because-comments-some-time",
+      "fingerprint": "because comments some time",
       "opportunity": "I have 3 ideas for side business but no idea to start",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-05",
+      "first_detected": "2026-11-06",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
