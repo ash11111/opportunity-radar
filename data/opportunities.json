@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-06T12:08:14.436791+00:00",
+  "generated_at": "2026-11-07T11:05:16.237716+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "maternity-submitted-technically-time",
-      "fingerprint": "maternity submitted technically time",
+      "id": "bit-but-have-hours",
+      "fingerprint": "bit but have hours",
       "opportunity": "(UK) 0 hour contract with work - preparing for maternity leave",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-06",
+      "first_detected": "2026-11-07",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "id": "because-consists-some-workflow",
-      "fingerprint": "because consists some workflow",
+      "id": "commissions-hitting-into-watch",
+      "fingerprint": "commissions hitting into watch",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-11-06",
+      "first_detected": "2026-11-07",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +69,12 @@
       ]
     },
     {
-      "id": "comments-freepik-huge-person",
-      "fingerprint": "comments freepik huge person",
+      "id": "into-paying-tech-through",
+      "fingerprint": "into paying tech through",
       "opportunity": "I got a little over 5K in 8 months using my old tech and about 2h a day",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-06",
+      "first_detected": "2026-11-07",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +102,12 @@
       ]
     },
     {
-      "id": "person-testing-thinking-time",
-      "fingerprint": "person testing thinking time",
+      "id": "anyone-cats-negative-them",
+      "fingerprint": "anyone cats negative them",
       "opportunity": "best route for me? open to anything except AI",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-06",
+      "first_detected": "2026-11-07",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +135,12 @@
       ]
     },
     {
-      "id": "comments-seen-time-upfront",
-      "fingerprint": "comments seen time upfront",
+      "id": "bring-hustle-something-them",
+      "fingerprint": "bring hustle something them",
       "opportunity": "Balloon flowers side hustle",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-11-06",
+      "first_detected": "2026-11-07",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,12 +168,12 @@
       ]
     },
     {
-      "id": "because-owner-thinking-time",
-      "fingerprint": "because owner thinking time",
+      "id": "avenues-several-station-tech",
+      "fingerprint": "avenues several station tech",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-06",
+      "first_detected": "2026-11-07",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,45 +201,12 @@
       ]
     },
     {
-      "id": "agents-hack-launch-site",
-      "fingerprint": "agents hack launch site",
-      "opportunity": "Launch a swarm of obliterated AI agents to hack your site",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-06",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Launch a swarm of obliterated AI agents to hack your site",
-          "url": "https://mockhack.com",
-          "published": "2026-11-06T11:45:59+00:00",
-          "engagement": 3
-        }
-      ]
-    },
-    {
-      "id": "because-comments-some-time",
-      "fingerprint": "because comments some time",
+      "id": "because-into-most-something",
+      "fingerprint": "because into most something",
       "opportunity": "I have 3 ideas for side business but no idea to start",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-06",
+      "first_detected": "2026-11-07",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
