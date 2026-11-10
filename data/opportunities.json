@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-09T12:54:00.500547+00:00",
+  "generated_at": "2026-11-10T12:40:45.148653+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "can-due-may-work",
-      "fingerprint": "can due may work",
+      "id": "basic-greatly-may-something",
+      "fingerprint": "basic greatly may something",
       "opportunity": "(UK) 0 hour contract with work - preparing for maternity leave",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-09",
+      "first_detected": "2026-11-10",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "id": "creative-parts-silences-three",
-      "fingerprint": "creative parts silences three",
+      "id": "getting-noticed-some-uploaded",
+      "fingerprint": "getting noticed some uploaded",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-11-09",
+      "first_detected": "2026-11-10",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,45 +69,12 @@
       ]
     },
     {
-      "id": "browser-can-files-videos",
-      "fingerprint": "browser can files videos",
-      "opportunity": "Show HN: Filepeek: a viewer for 658 file formats that runs in the browser",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Lead generation / agency",
-      "first_detected": "2026-11-09",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 58
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Filepeek: a viewer for 658 file formats that runs in the browser",
-          "url": "https://filepeek.io/",
-          "published": "2026-11-09T11:17:20+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "computer-plate-trying-works",
-      "fingerprint": "computer plate trying works",
+      "id": "audiences-capped-screen-self-host",
+      "fingerprint": "audiences capped screen self-host",
       "opportunity": "I got a little over 5K in 8 months using my old tech and about 2h a day",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-09",
+      "first_detected": "2026-11-10",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,45 +102,12 @@
       ]
     },
     {
-      "id": "chatbot-deploying-interactions-works",
-      "fingerprint": "chatbot deploying interactions works",
-      "opportunity": "Show HN: Open-source customer-facing agents",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-09",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 38,
-        "monetization": 65,
-        "opportunity": 55
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Open-source customer-facing agents",
-          "url": "https://github.com/radioso-ai/radioso",
-          "published": "2026-11-09T10:46:31+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "apps-cats-conflicts-works",
-      "fingerprint": "apps cats conflicts works",
+      "id": "btw-doesn-hopeless-trains",
+      "fingerprint": "btw doesn hopeless trains",
       "opportunity": "best route for me? open to anything except AI",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-09",
+      "first_detected": "2026-11-10",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,12 +135,12 @@
       ]
     },
     {
-      "id": "facebook-slow-splitlipp-trying",
-      "fingerprint": "facebook slow splitlipp trying",
+      "id": "all-bouquet-internet-made",
+      "fingerprint": "all bouquet internet made",
       "opportunity": "Balloon flowers side hustle",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-11-09",
+      "first_detected": "2026-11-10",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -234,12 +168,12 @@
       ]
     },
     {
-      "id": "offers-should-stores-trying",
-      "fingerprint": "offers should stores trying",
+      "id": "all-forgot-ipsos-owns",
+      "fingerprint": "all forgot ipsos owns",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-09",
+      "first_detected": "2026-11-10",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -267,45 +201,12 @@
       ]
     },
     {
-      "id": "ginux-human-directed-made-via",
-      "fingerprint": "ginux human-directed made via",
-      "opportunity": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+      "id": "india-saas-selling",
+      "fingerprint": "india saas selling",
+      "opportunity": "Selling SaaS in India",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-09",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 44,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 35,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-          "url": "https://zenodo.org/records/23682548",
-          "published": "2026-11-09T11:30:27+00:00",
-          "engagement": 13
-        }
-      ]
-    },
-    {
-      "id": "apps-efficiently-plus-setting",
-      "fingerprint": "apps efficiently plus setting",
-      "opportunity": "Show HN: TimeScroll \u2013 an open-source, local replacement for Rewind on Mac",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-09",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-11-10",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -325,53 +226,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: TimeScroll \u2013 an open-source, local replacement for Rewind on Mac",
-          "url": "https://github.com/XInTheDark/TimeScrollApp",
-          "published": "2026-11-09T11:19:39+00:00",
+          "title": "Selling SaaS in India",
+          "url": "https://embedworkflow.com/blog/selling-saas-in-india/",
+          "published": "2026-11-10T11:44:01+00:00",
           "engagement": 2
         }
       ]
     },
     {
-      "id": "computer-interesting-job-wanted",
-      "fingerprint": "computer interesting job wanted",
-      "opportunity": "Show HN: Software Job Title Family Tree",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-09",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Software Job Title Family Tree",
-          "url": "https://ianmiell.github.io/sw-job-title-family-tree/",
-          "published": "2026-11-09T09:17:34+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "ever-expertise-times-would",
-      "fingerprint": "ever expertise times would",
+      "id": "phase-read-some-specifically",
+      "fingerprint": "phase read some specifically",
       "opportunity": "I have 3 ideas for side business but no idea to start",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-09",
+      "first_detected": "2026-11-10",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
