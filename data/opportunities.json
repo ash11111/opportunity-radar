@@ -1,14 +1,47 @@
 {
-  "generated_at": "2026-11-10T12:40:45.148653+00:00",
+  "generated_at": "2026-11-11T11:53:51.875971+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "basic-greatly-may-something",
-      "fingerprint": "basic greatly may something",
+      "id": "cleaned-hand-subscription-switch",
+      "fingerprint": "cleaned hand subscription switch",
+      "opportunity": "Show HN: Pots \u2013 Open-source Grok Bot alternative, used by 6 startups for a month",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-11",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 46,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 60
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Pots \u2013 Open-source Grok Bot alternative, used by 6 startups for a month",
+          "url": "https://github.com/Crokily/pi-durable-bot",
+          "published": "2026-11-11T11:11:34+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "have-link-more-takeover",
+      "fingerprint": "have link more takeover",
       "opportunity": "(UK) 0 hour contract with work - preparing for maternity leave",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-10",
+      "first_detected": "2026-11-11",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +69,12 @@
       ]
     },
     {
-      "id": "getting-noticed-some-uploaded",
-      "fingerprint": "getting noticed some uploaded",
+      "id": "changing-comments-noticed-tool",
+      "fingerprint": "changing comments noticed tool",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-11-10",
+      "first_detected": "2026-11-11",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +102,12 @@
       ]
     },
     {
-      "id": "audiences-capped-screen-self-host",
-      "fingerprint": "audiences capped screen self-host",
+      "id": "gamma-generates-lot-tool",
+      "fingerprint": "gamma generates lot tool",
       "opportunity": "I got a little over 5K in 8 months using my old tech and about 2h a day",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-10",
+      "first_detected": "2026-11-11",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +135,12 @@
       ]
     },
     {
-      "id": "btw-doesn-hopeless-trains",
-      "fingerprint": "btw doesn hopeless trains",
+      "id": "comments-etc-member-pictures",
+      "fingerprint": "comments etc member pictures",
       "opportunity": "best route for me? open to anything except AI",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-10",
+      "first_detected": "2026-11-11",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +168,12 @@
       ]
     },
     {
-      "id": "all-bouquet-internet-made",
-      "fingerprint": "all bouquet internet made",
+      "id": "comments-deliver-internet-mentioned",
+      "fingerprint": "comments deliver internet mentioned",
       "opportunity": "Balloon flowers side hustle",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-11-10",
+      "first_detected": "2026-11-11",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,12 +201,12 @@
       ]
     },
     {
-      "id": "all-forgot-ipsos-owns",
-      "fingerprint": "all forgot ipsos owns",
+      "id": "comments-its-lot-owner",
+      "fingerprint": "comments its lot owner",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-10",
+      "first_detected": "2026-11-11",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,45 +234,12 @@
       ]
     },
     {
-      "id": "india-saas-selling",
-      "fingerprint": "india saas selling",
-      "opportunity": "Selling SaaS in India",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Software / micro-SaaS",
-      "first_detected": "2026-11-10",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Selling SaaS in India",
-          "url": "https://embedworkflow.com/blog/selling-saas-in-india/",
-          "published": "2026-11-10T11:44:01+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "phase-read-some-specifically",
-      "fingerprint": "phase read some specifically",
+      "id": "idea-read-university-won",
+      "fingerprint": "idea read university won",
       "opportunity": "I have 3 ideas for side business but no idea to start",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-10",
+      "first_detected": "2026-11-11",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
