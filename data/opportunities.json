@@ -1,47 +1,14 @@
 {
-  "generated_at": "2026-11-11T11:53:51.875971+00:00",
-  "raw_items_seen": 195,
+  "generated_at": "2026-11-12T12:44:58.560939+00:00",
+  "raw_items_seen": 270,
   "opportunities": [
     {
-      "id": "cleaned-hand-subscription-switch",
-      "fingerprint": "cleaned hand subscription switch",
-      "opportunity": "Show HN: Pots \u2013 Open-source Grok Bot alternative, used by 6 startups for a month",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-11",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 60
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Pots \u2013 Open-source Grok Bot alternative, used by 6 startups for a month",
-          "url": "https://github.com/Crokily/pi-durable-bot",
-          "published": "2026-11-11T11:11:34+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "have-link-more-takeover",
-      "fingerprint": "have link more takeover",
+      "id": "due-part-skills-submitted",
+      "fingerprint": "due part skills submitted",
       "opportunity": "(UK) 0 hour contract with work - preparing for maternity leave",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-11",
+      "first_detected": "2026-11-12",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +36,12 @@
       ]
     },
     {
-      "id": "changing-comments-noticed-tool",
-      "fingerprint": "changing comments noticed tool",
+      "id": "ago-extra-find-tools",
+      "fingerprint": "ago extra find tools",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-11-11",
+      "first_detected": "2026-11-12",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +69,639 @@
       ]
     },
     {
-      "id": "gamma-generates-lot-tool",
-      "fingerprint": "gamma generates lot tool",
+      "id": "here-simply-tools-what",
+      "fingerprint": "here simply tools what",
+      "opportunity": "SDE explained simply, since it comes up in every \u201cwhat\u2019s my app worth\u201d thread",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "SDE explained simply, since it comes up in every \u201cwhat\u2019s my app worth\u201d thread",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xtsv7j/sde_explained_simply_since_it_comes_up_in_every/",
+          "published": "2026-11-11T20:34:33+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "comments-phicreative1997-rendering-two",
+      "fingerprint": "comments phicreative1997 rendering two",
+      "opportunity": "I built something that most people laughed at, but it made me $10K",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Lead generation / agency",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "I built something that most people laughed at, but it made me $10K",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xtn9m9/i_built_something_that_most_people_laughed_at_but/",
+          "published": "2026-11-11T17:05:55+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "didn-engineers-find-tools",
+      "fingerprint": "didn engineers find tools",
+      "opportunity": "6 months in, the product works, and I have no idea if anyone will pay for it",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "6 months in, the product works, and I have no idea if anyone will pay for it",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xtn8x2/6_months_in_the_product_works_and_i_have_no_idea/",
+          "published": "2026-11-11T17:05:12+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "building-flatlogic-one-off-repeated",
+      "fingerprint": "building flatlogic one-off repeated",
+      "opportunity": "I think my AI feature should be rejected if it cannot replace a recurring annoyance",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "I think my AI feature should be rejected if it cannot replace a recurring annoyance",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xtlorj/i_think_my_ai_feature_should_be_rejected_if_it/",
+          "published": "2026-11-11T16:07:55+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "ago-carry-overage-what",
+      "fingerprint": "ago carry overage what",
+      "opportunity": "Intercom bills $0.99 per outcome. Zendesk bills \u00a31.30 or $2.00 per resolution. The pricing looks alike, the billing behind it doesn't",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "Intercom bills $0.99 per outcome. Zendesk bills \u00a31.30 or $2.00 per resolution. The pricing looks alike, the billing behind it doesn't",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xtfq27/intercom_bills_099_per_outcome_zendesk_bills_130/",
+          "published": "2026-11-11T11:47:28+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "changed-funds-here-what",
+      "fingerprint": "changed funds here what",
+      "opportunity": "A decision-diary template: questions to answer before you decide to sell your micro SaaS",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "A decision-diary template: questions to answer before you decide to sell your micro SaaS",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xtf23d/a_decisiondiary_template_questions_to_answer/",
+          "published": "2026-11-11T11:08:13+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "cdn-claims-privacy-ship",
+      "fingerprint": "cdn claims privacy ship",
+      "opportunity": "Lesson from building a client gallery SaaS for photographers: \"EU-hosted\" is a sub-processor list, not a badge",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "Lesson from building a client gallery SaaS for photographers: \"EU-hosted\" is a sub-processor list, not a badge",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xtc724/lesson_from_building_a_client_gallery_saas_for/",
+          "published": "2026-11-11T08:07:11+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "gemini-providers-single-what",
+      "fingerprint": "gemini providers single what",
+      "opportunity": "Rate my idea and be brutally honest!",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "Rate my idea and be brutally honest!",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xtbj36/rate_my_idea_and_be_brutally_honest/",
+          "published": "2026-11-11T07:26:04+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "didn-october-single-tools",
+      "fingerprint": "didn october single tools",
+      "opportunity": "First paying customer 2 weeks after Product Hunt, and it wasn\u2019t the plan I expected",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "First paying customer 2 weeks after Product Hunt, and it wasn\u2019t the plan I expected",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xsrbdi/first_paying_customer_2_weeks_after_product_hunt/",
+          "published": "2026-11-10T16:26:04+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "find-subscribers-what-zero",
+      "fingerprint": "find subscribers what zero",
+      "opportunity": "Anthropic just rewarded customers based on how long they've been paying. Micro SaaS companies do the opposite.",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "Anthropic just rewarded customers based on how long they've been paying. Micro SaaS companies do the opposite.",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xsq7ih/anthropic_just_rewarded_customers_based_on_how/",
+          "published": "2026-11-10T15:44:40+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "asked-find-thoughts-zero",
+      "fingerprint": "asked find thoughts zero",
+      "opportunity": "What Is More Challenging: Zero to One or One to Hundred? Entrepreneurs, I would love to hear your thoughts on this.",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "What Is More Challenging: Zero to One or One to Hundred? Entrepreneurs, I would love to hear your thoughts on this.",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xslup6/what_is_more_challenging_zero_to_one_or_one_to/",
+          "published": "2026-11-10T12:38:55+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "ago-honestly-single-tools",
+      "fingerprint": "ago honestly single tools",
+      "opportunity": "Supabase vs Railway for an AI powered WhatsApp automation tool. I need some honest advice.",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "Supabase vs Railway for an AI powered WhatsApp automation tool. I need some honest advice.",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xsjpzb/supabase_vs_railway_for_an_ai_powered_whatsapp/",
+          "published": "2026-11-10T10:41:05+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "here-screen-talked-what",
+      "fingerprint": "here screen talked what",
+      "opportunity": "Built a micro SaaS solo over a year: 73 signups, but almost nobody stayed after the trial. Here's what I learned (and why I'm selling)",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "Built a micro SaaS solo over a year: 73 signups, but almost nobody stayed after the trial. Here's what I learned (and why I'm selling)",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xsij1w/built_a_micro_saas_solo_over_a_year_73_signups/",
+          "published": "2026-11-10T09:26:50+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "adoption-distracted-flatlogic-submitted",
+      "fingerprint": "adoption distracted flatlogic submitted",
+      "opportunity": "I think my AI SaaS idea has to survive the \u201cFriday afternoon\u201d test",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "I think my AI SaaS idea has to survive the \u201cFriday afternoon\u201d test",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xryifm/i_think_my_ai_saas_idea_has_to_survive_the_friday/",
+          "published": "2026-11-09T17:51:56+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "editor-find-names-tools",
+      "fingerprint": "editor find names tools",
+      "opportunity": "we added our SaaS to nine comparison articles both Chatgpt & Perplexity use in our category!",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "we added our SaaS to nine comparison articles both Chatgpt & Perplexity use in our category!",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xrs17w/we_added_our_saas_to_nine_comparison_articles/",
+          "published": "2026-11-09T13:45:29+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "didn-fine-tools-type",
+      "fingerprint": "didn fine tools type",
+      "opportunity": "how i do competitor research in about 20 minutes now (rough method)",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "how i do competitor research in about 20 minutes now (rough method)",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xrf833/how_i_do_competitor_research_in_about_20_minutes/",
+          "published": "2026-11-09T01:48:10+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "most-per-submitted-tool",
+      "fingerprint": "most per submitted tool",
+      "opportunity": "Quick pricing question for anyone running AI workflows for clients",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "Quick pricing question for anyone running AI workflows for clients",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xrd2up/quick_pricing_question_for_anyone_running_ai/",
+          "published": "2026-11-09T00:03:10+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "ago-chats-didn-type",
+      "fingerprint": "ago chats didn type",
+      "opportunity": "Adding Live Chat Increased Conversions",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 59
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "Adding Live Chat Increased Conversions",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xr2ql1/adding_live_chat_increased_conversions/",
+          "published": "2026-11-08T16:42:53+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "engineers-etherpk-single-thoughts",
+      "fingerprint": "engineers etherpk single thoughts",
+      "opportunity": "Show HN: EtherPK \u2013 Fast Markdown Notes with Agent Integrated Task Kanban Board",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 58
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: EtherPK \u2013 Fast Markdown Notes with Agent Integrated Task Kanban Board",
+          "url": "https://www.etherpk.com/home",
+          "published": "2026-11-12T12:16:18+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "fit-still-type-unlimited",
+      "fingerprint": "fit still type unlimited",
       "opportunity": "I got a little over 5K in 8 months using my old tech and about 2h a day",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-11",
+      "first_detected": "2026-11-12",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +729,12 @@
       ]
     },
     {
-      "id": "comments-etc-member-pictures",
-      "fingerprint": "comments etc member pictures",
-      "opportunity": "best route for me? open to anything except AI",
+      "id": "arriving-now-searching-what",
+      "fingerprint": "arriving now searching what",
+      "opportunity": "I'll tell you what's stopping your product from getting SEO traffic, free (need a few real websites to test on)",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-11",
+      "category": "Data / marketplace",
+      "first_detected": "2026-11-12",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -148,10 +742,10 @@
         "momentum": 43,
         "novelty": 92,
         "saturation": 20,
-        "evidence": 42,
-        "accessibility": 38,
+        "evidence": 30,
+        "accessibility": 62,
         "monetization": 65,
-        "opportunity": 55
+        "opportunity": 57
       },
       "lifecycle": "Very Early",
       "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
@@ -159,21 +753,219 @@
       "sources": [
         {
           "source": "Reddit",
-          "source_detail": "r/sidehustle",
-          "title": "best route for me? open to anything except AI",
-          "url": "https://www.reddit.com/r/sidehustle/comments/1x6pf3a/best_route_for_me_open_to_anything_except_ai/",
-          "published": "2026-10-15T15:54:27+00:00",
+          "source_detail": "r/microsaas",
+          "title": "I'll tell you what's stopping your product from getting SEO traffic, free (need a few real websites to test on)",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xu465v/ill_tell_you_whats_stopping_your_product_from/",
+          "published": "2026-11-12T05:11:25+00:00",
           "engagement": 0
         }
       ]
     },
     {
-      "id": "comments-deliver-internet-mentioned",
-      "fingerprint": "comments deliver internet mentioned",
+      "id": "invitation-pattern-step-what",
+      "fingerprint": "invitation pattern step what",
+      "opportunity": "Lesson from building a micro SaaS that reads invite emails: platforms almost never say who they are",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 57
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "Lesson from building a micro SaaS that reads invite emails: platforms almost never say who they are",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xtq11q/lesson_from_building_a_micro_saas_that_reads/",
+          "published": "2026-11-11T18:46:58+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "apart-here-torn-what",
+      "fingerprint": "apart here torn what",
+      "opportunity": "Roast my landing page: PingLoom, phone alerts for small dev teams (pre-launch)",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 57
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "Roast my landing page: PingLoom, phone alerts for small dev teams (pre-launch)",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xsoc8l/roast_my_landing_page_pingloom_phone_alerts_for/",
+          "published": "2026-11-10T14:30:28+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "arescogroup-common-here-samples",
+      "fingerprint": "arescogroup common here samples",
+      "opportunity": "Built a tiny AI clipping service for streamers \u2014 lesson from using public-domain demo footage, and I'd like a critique of the beta page",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 57
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "Built a tiny AI clipping service for streamers \u2014 lesson from using public-domain demo footage, and I'd like a critique of the beta page",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xs299a/built_a_tiny_ai_clipping_service_for_streamers/",
+          "published": "2026-11-09T20:08:42+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "aggregating-exports-honestly-tough",
+      "fingerprint": "aggregating exports honestly tough",
+      "opportunity": "Need your braincells! Usage-based pricing for MicroSaaS - How to tackle seats/access-based pricing.",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 57
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "Need your braincells! Usage-based pricing for MicroSaaS - How to tackle seats/access-based pricing.",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xqxiv8/need_your_braincells_usagebased_pricing_for/",
+          "published": "2026-11-08T12:40:35+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "few-manage-much-rust",
+      "fingerprint": "few manage much rust",
+      "opportunity": "Costcrew a app to manage AI spending",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 46,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 55
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Costcrew a app to manage AI spending",
+          "url": "https://news.ycombinator.com/item?id=50465329",
+          "published": "2026-11-12T10:25:01+00:00",
+          "engagement": 2
+        }
+      ]
+    },
+    {
+      "id": "effort-finish-hard-what",
+      "fingerprint": "effort finish hard what",
+      "opportunity": "Show HN: Plot, a 3D project tracker in your Chrome new tab",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 46,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 55
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Plot, a 3D project tracker in your Chrome new tab",
+          "url": "https://plot.nostock.studio/",
+          "published": "2026-11-12T11:19:42+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "ago-extra-hard-marketplace",
+      "fingerprint": "ago extra hard marketplace",
       "opportunity": "Balloon flowers side hustle",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-11-11",
+      "first_detected": "2026-11-12",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,12 +993,12 @@
       ]
     },
     {
-      "id": "comments-its-lot-owner",
-      "fingerprint": "comments its lot owner",
+      "id": "ago-denying-now-still",
+      "fingerprint": "ago denying now still",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-11",
+      "first_detected": "2026-11-12",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -234,12 +1026,144 @@
       ]
     },
     {
-      "id": "idea-read-university-won",
-      "fingerprint": "idea read university won",
+      "id": "tools-unnecessary-well-what",
+      "fingerprint": "tools unnecessary well what",
+      "opportunity": "Rate my idea, please be brutal",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 54
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "Rate my idea, please be brutal",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xtxogj/rate_my_idea_please_be_brutal/",
+          "published": "2026-11-11T23:54:17+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "effort-ragflow-retrieval-tools",
+      "fingerprint": "effort ragflow retrieval tools",
+      "opportunity": "We spent two years building a knowledge work AI app. Too much of that time went into fixing the foundations.",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 42,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 54
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "We spent two years building a knowledge work AI app. Too much of that time went into fixing the foundations.",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xtvzy7/we_spent_two_years_building_a_knowledge_work_ai/",
+          "published": "2026-11-11T22:40:37+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "interesting-something-switch-week",
+      "fingerprint": "interesting something switch week",
+      "opportunity": "I gave an AI a week to make something interesting or I switch it off",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "I gave an AI a week to make something interesting or I switch it off",
+          "url": "https://lira-ia.github.io/",
+          "published": "2026-11-12T09:42:55+00:00",
+          "engagement": 4
+        }
+      ]
+    },
+    {
+      "id": "companies-more-spend-video",
+      "fingerprint": "companies more spend video",
+      "opportunity": "How companies are using AI to make you spend more money \u2013 PBS NewsHour [video]",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "How companies are using AI to make you spend more money \u2013 PBS NewsHour [video]",
+          "url": "https://www.youtube.com/watch?v=IYMjw7m5yf4",
+          "published": "2026-11-12T11:39:40+00:00",
+          "engagement": 2
+        }
+      ]
+    },
+    {
+      "id": "design-limited-studied-thesis",
+      "fingerprint": "design limited studied thesis",
       "opportunity": "I have 3 ideas for side business but no idea to start",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-11",
+      "first_detected": "2026-11-12",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -262,6 +1186,369 @@
           "title": "I have 3 ideas for side business but no idea to start",
           "url": "https://www.reddit.com/r/sidehustle/comments/1xey0oz/i_have_3_ideas_for_side_business_but_no_idea_to/",
           "published": "2026-10-25T09:34:55+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "fit-single-what-zero",
+      "fingerprint": "fit single what zero",
+      "opportunity": "I spent $18 on a Telegram ad for my sports analytics app. 2,705 views, 13 unique clicks, zero signups.",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Service business",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 52
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "I spent $18 on a Telegram ad for my sports analytics app. 2,705 views, 13 unique clicks, zero signups.",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xua4u2/i_spent_18_on_a_telegram_ad_for_my_sports/",
+          "published": "2026-11-12T11:13:32+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "didn-find-sauce-single",
+      "fingerprint": "didn find sauce single",
+      "opportunity": "I built a business worth $10M around being called a cheap clay clone",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 52
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "I built a business worth $10M around being called a cheap clay clone",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xthqep/i_built_a_business_worth_10m_around_being_called/",
+          "published": "2026-11-11T13:28:08+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "building-idea-most-submitted",
+      "fingerprint": "building idea most submitted",
+      "opportunity": "AI Powered Platform",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 52
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "AI Powered Platform",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xtf3hb/ai_powered_platform/",
+          "published": "2026-11-11T11:10:32+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "apply-didn-here-resend",
+      "fingerprint": "apply didn here resend",
+      "opportunity": "What digital sellers keep asking for when they move off Gumroad (lessons from our store builder)",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 38,
+        "monetization": 65,
+        "opportunity": 52
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "What digital sellers keep asking for when they move off Gumroad (lessons from our store builder)",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xt9dgw/what_digital_sellers_keep_asking_for_when_they/",
+          "published": "2026-11-11T05:19:45+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "didn-encountered-existed-what",
+      "fingerprint": "didn encountered existed what",
+      "opportunity": "The bug that taught me \"working\" and \"actually working\" are two different things",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 52
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "The bug that taught me \"working\" and \"actually working\" are two different things",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xt8r99/the_bug_that_taught_me_working_and_actually/",
+          "published": "2026-11-11T04:46:42+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "design-fine-multi-step-single",
+      "fingerprint": "design fine multi-step single",
+      "opportunity": "A user said my tool made his output worse, so I changed the default instead of defending the benchmark",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 52
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "A user said my tool made his output worse, so I changed the default instead of defending the benchmark",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xspvxo/a_user_said_my_tool_made_his_output_worse_so_i/",
+          "published": "2026-11-10T15:32:16+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "apply-compared-didn-fine",
+      "fingerprint": "apply compared didn fine",
+      "opportunity": "i fine tuned a model on 612 examples and i don't trust my own benchmark",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 52
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "i fine tuned a model on 612 examples and i don't trust my own benchmark",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xscrpk/i_fine_tuned_a_model_on_612_examples_and_i_dont/",
+          "published": "2026-11-10T03:43:24+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "design-didn-likes-type",
+      "fingerprint": "design didn likes type",
+      "opportunity": "I got my SaaS recommended #1 by ChatGPT. Here\u2019s exactly what I did",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 52
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "I got my SaaS recommended #1 by ChatGPT. Here\u2019s exactly what I did",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xrnek3/i_got_my_saas_recommended_1_by_chatgpt_heres/",
+          "published": "2026-11-09T09:34:49+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "likes-still-two-what",
+      "fingerprint": "likes still two what",
+      "opportunity": "Someone bought the monthly plan, then upgraded to yearly 13 mins later \ud83d\ude2d",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 52
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "Someone bought the monthly plan, then upgraded to yearly 13 mins later \ud83d\ude2d",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xrm7yu/someone_bought_the_monthly_plan_then_upgraded_to/",
+          "published": "2026-11-09T08:17:36+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "devotional-limited-tools-vocals",
+      "fingerprint": "devotional limited tools vocals",
+      "opportunity": "Looking for free AI video and music generation APIs for an early-stage startup (before paid users)",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 52
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "Looking for free AI video and music generation APIs for an early-stage startup (before paid users)",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xr3bh8/looking_for_free_ai_video_and_music_generation/",
+          "published": "2026-11-08T17:06:18+00:00",
+          "engagement": 0
+        }
+      ]
+    },
+    {
+      "id": "different-failure-now-two",
+      "fingerprint": "different failure now two",
+      "opportunity": "Billing webhook notes from a micro SaaS: two signing key formats and the 500 vs 403 choice",
+      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-11-12",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 30,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 52
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Reddit",
+          "source_detail": "r/microsaas",
+          "title": "Billing webhook notes from a micro SaaS: two signing key formats and the 500 vs 403 choice",
+          "url": "https://www.reddit.com/r/microsaas/comments/1xqrcuw/billing_webhook_notes_from_a_micro_saas_two/",
+          "published": "2026-11-08T06:02:22+00:00",
           "engagement": 0
         }
       ]
