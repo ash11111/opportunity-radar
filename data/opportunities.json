@@ -1,14 +1,47 @@
 {
-  "generated_at": "2026-11-13T12:14:25.702613+00:00",
+  "generated_at": "2026-11-14T11:29:18.542080+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "earn-have-preparing-takeover",
-      "fingerprint": "earn have preparing takeover",
+      "id": "honestly-responded-see-time",
+      "fingerprint": "honestly responded see time",
+      "opportunity": "Show HN: Orty \u2013 AI lead qualification for freelancers",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-14",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 46,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 60
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Orty \u2013 AI lead qualification for freelancers",
+          "url": "https://getorty.work",
+          "published": "2026-11-14T10:40:41+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "but-have-may-which",
+      "fingerprint": "but have may which",
       "opportunity": "(UK) 0 hour contract with work - preparing for maternity leave",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-13",
+      "first_detected": "2026-11-14",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +69,12 @@
       ]
     },
     {
-      "id": "extra-have-profit-things",
-      "fingerprint": "extra have profit things",
+      "id": "see-upload-video-which",
+      "fingerprint": "see upload video which",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-11-13",
+      "first_detected": "2026-11-14",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +102,45 @@
       ]
     },
     {
-      "id": "all-depend-place-these",
-      "fingerprint": "all depend place these",
+      "id": "click-com-papers-pasting",
+      "fingerprint": "click com papers pasting",
+      "opportunity": "Show HN: Gamma PDF \u2013 AI-native PDF reader, self-hosted",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-14",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 58
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Gamma PDF \u2013 AI-native PDF reader, self-hosted",
+          "url": "https://gammapdf.com/",
+          "published": "2026-11-14T08:08:11+00:00",
+          "engagement": 7
+        }
+      ]
+    },
+    {
+      "id": "after-pro-upload-watermarked",
+      "fingerprint": "after pro upload watermarked",
       "opportunity": "I got a little over 5K in 8 months using my old tech and about 2h a day",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-13",
+      "first_detected": "2026-11-14",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +168,12 @@
       ]
     },
     {
-      "id": "extra-have-orders-them",
-      "fingerprint": "extra have orders them",
+      "id": "balloon-having-stay-there",
+      "fingerprint": "balloon having stay there",
       "opportunity": "Balloon flowers side hustle",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-11-13",
+      "first_detected": "2026-11-14",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -135,12 +201,12 @@
       ]
     },
     {
-      "id": "any-have-orders-things",
-      "fingerprint": "any have orders things",
+      "id": "after-being-ipsos-multitasking",
+      "fingerprint": "after being ipsos multitasking",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-13",
+      "first_detected": "2026-11-14",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,78 +234,12 @@
       ]
     },
     {
-      "id": "carton-glue-has-talk",
-      "fingerprint": "carton glue has talk",
-      "opportunity": "Show HN: Carton Clock \u2013 A working pendulum clock made from empty drink cartons",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-13",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Carton Clock \u2013 A working pendulum clock made from empty drink cartons",
-          "url": "https://www.niklasroy.com/carton-clock/",
-          "published": "2026-11-13T12:00:18+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "can-life-ways-worse",
-      "fingerprint": "can life ways worse",
-      "opportunity": "Taxonomy of 26 Ways AI Can Make Your Life Worse",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-13",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Taxonomy of 26 Ways AI Can Make Your Life Worse",
-          "url": "https://www.f-secure.com/en/partners/illuminate-research/ai-harms-taxonomy",
-          "published": "2026-11-13T09:29:29+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "actual-any-have-would",
-      "fingerprint": "actual any have would",
+      "id": "there-usage-video-which",
+      "fingerprint": "there usage video which",
       "opportunity": "I have 3 ideas for side business but no idea to start",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-13",
+      "first_detected": "2026-11-14",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
