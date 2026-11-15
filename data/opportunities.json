@@ -1,47 +1,14 @@
 {
-  "generated_at": "2026-11-14T11:29:18.542080+00:00",
+  "generated_at": "2026-11-15T11:57:50.469489+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "honestly-responded-see-time",
-      "fingerprint": "honestly responded see time",
-      "opportunity": "Show HN: Orty \u2013 AI lead qualification for freelancers",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-14",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 60
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Orty \u2013 AI lead qualification for freelancers",
-          "url": "https://getorty.work",
-          "published": "2026-11-14T10:40:41+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "but-have-may-which",
-      "fingerprint": "but have may which",
+      "id": "document-don-skills-unreliablenar-rator",
+      "fingerprint": "document don skills unreliablenar-rator",
       "opportunity": "(UK) 0 hour contract with work - preparing for maternity leave",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-14",
+      "first_detected": "2026-11-15",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +36,12 @@
       ]
     },
     {
-      "id": "see-upload-video-which",
-      "fingerprint": "see upload video which",
+      "id": "casio-don-now-tools",
+      "fingerprint": "casio don now tools",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-11-14",
+      "first_detected": "2026-11-15",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,12 +69,12 @@
       ]
     },
     {
-      "id": "click-com-papers-pasting",
-      "fingerprint": "click com papers pasting",
-      "opportunity": "Show HN: Gamma PDF \u2013 AI-native PDF reader, self-hosted",
+      "id": "automemory-don-techniques-vector",
+      "fingerprint": "automemory don techniques vector",
+      "opportunity": "Thoughts on memory layers like mem0",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-14",
+      "first_detected": "2026-11-15",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -127,20 +94,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Gamma PDF \u2013 AI-native PDF reader, self-hosted",
-          "url": "https://gammapdf.com/",
-          "published": "2026-11-14T08:08:11+00:00",
-          "engagement": 7
+          "title": "Thoughts on memory layers like mem0",
+          "url": "https://news.ycombinator.com/item?id=50505744",
+          "published": "2026-11-15T10:26:46+00:00",
+          "engagement": 3
         }
       ]
     },
     {
-      "id": "after-pro-upload-watermarked",
-      "fingerprint": "after pro upload watermarked",
+      "id": "actually-hard-painful-tools",
+      "fingerprint": "actually hard painful tools",
       "opportunity": "I got a little over 5K in 8 months using my old tech and about 2h a day",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-14",
+      "first_detected": "2026-11-15",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,12 +135,12 @@
       ]
     },
     {
-      "id": "balloon-having-stay-there",
-      "fingerprint": "balloon having stay there",
+      "id": "bring-comments-hard-stay",
+      "fingerprint": "bring comments hard stay",
       "opportunity": "Balloon flowers side hustle",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-11-14",
+      "first_detected": "2026-11-15",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,12 +168,12 @@
       ]
     },
     {
-      "id": "after-being-ipsos-multitasking",
-      "fingerprint": "after being ipsos multitasking",
+      "id": "denying-phone-restaurants-sometimes",
+      "fingerprint": "denying phone restaurants sometimes",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-14",
+      "first_detected": "2026-11-15",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -234,12 +201,45 @@
       ]
     },
     {
-      "id": "there-usage-video-which",
-      "fingerprint": "there usage video which",
+      "id": "malware-now-only-without",
+      "fingerprint": "malware now only without",
+      "opportunity": "Show HN: New In browser URL verification tool",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Lead generation / agency",
+      "first_detected": "2026-11-15",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: New In browser URL verification tool",
+          "url": "https://news.ycombinator.com/item?id=50505178",
+          "published": "2026-11-15T08:45:19+00:00",
+          "engagement": 6
+        }
+      ]
+    },
+    {
+      "id": "besides-don-investing-now",
+      "fingerprint": "besides don investing now",
       "opportunity": "I have 3 ideas for side business but no idea to start",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-14",
+      "first_detected": "2026-11-15",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
