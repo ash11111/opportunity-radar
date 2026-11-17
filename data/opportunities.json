@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-16T12:46:51.499693+00:00",
+  "generated_at": "2026-11-17T13:28:25.472401+00:00",
   "raw_items_seen": 195,
   "opportunities": [
     {
-      "id": "art-contract-preparing-takeover",
-      "fingerprint": "art contract preparing takeover",
+      "id": "only-part-sick-too",
+      "fingerprint": "only part sick too",
       "opportunity": "(UK) 0 hour contract with work - preparing for maternity leave",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-16",
+      "first_detected": "2026-11-17",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -36,12 +36,12 @@
       ]
     },
     {
-      "id": "creative-instant-silent1mezzo-spend",
-      "fingerprint": "creative instant silent1mezzo spend",
+      "id": "basically-over-record-thumbnail",
+      "fingerprint": "basically over record thumbnail",
       "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Creator monetization",
-      "first_detected": "2026-11-16",
+      "first_detected": "2026-11-17",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -69,12 +69,12 @@
       ]
     },
     {
-      "id": "companies-much-myself-per",
-      "fingerprint": "companies much myself per",
+      "id": "exhausting-fast-friction-tech",
+      "fingerprint": "exhausting fast friction tech",
       "opportunity": "I got a little over 5K in 8 months using my old tech and about 2h a day",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-16",
+      "first_detected": "2026-11-17",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -102,45 +102,12 @@
       ]
     },
     {
-      "id": "combine-development-show-toggling",
-      "fingerprint": "combine development show toggling",
-      "opportunity": "Show HN: Hosts Tray \u2013 hosts file switcher with built-in HTTPS proxy",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Software / micro-SaaS",
-      "first_detected": "2026-11-16",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 55
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Hosts Tray \u2013 hosts file switcher with built-in HTTPS proxy",
-          "url": "https://github.com/maxmart/hoststray",
-          "published": "2026-11-16T12:42:29+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "bouquets-facebook-quickly-without",
-      "fingerprint": "bouquets facebook quickly without",
+      "id": "over-quickly-seen-urge",
+      "fingerprint": "over quickly seen urge",
       "opportunity": "Balloon flowers side hustle",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "Data / marketplace",
-      "first_detected": "2026-11-16",
+      "first_detected": "2026-11-17",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -168,12 +135,12 @@
       ]
     },
     {
-      "id": "ilost-operator-shop-taking",
-      "fingerprint": "ilost operator shop taking",
+      "id": "avenues-headed-office-weekday",
+      "fingerprint": "avenues headed office weekday",
       "opportunity": "Multitasking is my side hustle!",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-16",
+      "first_detected": "2026-11-17",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -201,12 +168,12 @@
       ]
     },
     {
-      "id": "data-fair-our-pictures",
-      "fingerprint": "data fair our pictures",
-      "opportunity": "May be data is the bottleneck for AGI",
+      "id": "automated-cyberattack-hackers-russian-speaking",
+      "fingerprint": "automated cyberattack hackers russian-speaking",
+      "opportunity": "Russian-Speaking Hackers Launched First Automated AI Cyberattack",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Data / marketplace",
-      "first_detected": "2026-11-16",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-17",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -226,20 +193,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "May be data is the bottleneck for AGI",
-          "url": "https://news.ycombinator.com/item?id=50516243",
-          "published": "2026-11-16T11:02:03+00:00",
+          "title": "Russian-Speaking Hackers Launched First Automated AI Cyberattack",
+          "url": "https://united24media.com/world/russian-speaking-hackers-launched-first-fully-automated-ai-cyberattack-google-says-24451",
+          "published": "2026-11-17T13:24:39+00:00",
           "engagement": 1
         }
       ]
     },
     {
-      "id": "but-level-much-would",
-      "fingerprint": "but level much would",
+      "id": "about-any-book-could",
+      "fingerprint": "about any book could",
       "opportunity": "I have 3 ideas for side business but no idea to start",
       "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-16",
+      "first_detected": "2026-11-17",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
