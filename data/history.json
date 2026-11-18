@@ -5281,5 +5281,23 @@
         "mentions": 1
       }
     ]
+  },
+  "manage process runs tool": {
+    "first_detected": "2026-11-18",
+    "daily_mentions": [
+      {
+        "date": "2026-11-18",
+        "mentions": 1
+      }
+    ]
+  },
+  "agent customer support visual": {
+    "first_detected": "2026-11-18",
+    "daily_mentions": [
+      {
+        "date": "2026-11-18",
+        "mentions": 1
+      }
+    ]
   }
 }

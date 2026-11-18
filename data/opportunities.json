@@ -1,179 +1,14 @@
 {
-  "generated_at": "2026-11-17T13:28:25.472401+00:00",
-  "raw_items_seen": 195,
+  "generated_at": "2026-11-18T13:04:16.190800+00:00",
+  "raw_items_seen": 120,
   "opportunities": [
     {
-      "id": "only-part-sick-too",
-      "fingerprint": "only part sick too",
-      "opportunity": "(UK) 0 hour contract with work - preparing for maternity leave",
-      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-17",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 42,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 59
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Reddit",
-          "source_detail": "r/sidehustle",
-          "title": "(UK) 0 hour contract with work - preparing for maternity leave",
-          "url": "https://www.reddit.com/r/sidehustle/comments/1xn7v2j/uk_0_hour_contract_with_work_preparing_for/",
-          "published": "2026-11-03T22:53:15+00:00",
-          "engagement": 0
-        }
-      ]
-    },
-    {
-      "id": "basically-over-record-thumbnail",
-      "fingerprint": "basically over record thumbnail",
-      "opportunity": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
-      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Creator monetization",
-      "first_detected": "2026-11-17",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 42,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 59
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Reddit",
-          "source_detail": "r/sidehustle",
-          "title": "Been filming my hobby for 11 months and recently it's turned into almost $1000/month",
-          "url": "https://www.reddit.com/r/sidehustle/comments/1x56nda/been_filming_my_hobby_for_11_months_and_recently/",
-          "published": "2026-10-13T19:44:03+00:00",
-          "engagement": 0
-        }
-      ]
-    },
-    {
-      "id": "exhausting-fast-friction-tech",
-      "fingerprint": "exhausting fast friction tech",
-      "opportunity": "I got a little over 5K in 8 months using my old tech and about 2h a day",
-      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-17",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 30,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 57
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Reddit",
-          "source_detail": "r/sidehustle",
-          "title": "I got a little over 5K in 8 months using my old tech and about 2h a day",
-          "url": "https://www.reddit.com/r/sidehustle/comments/1xauhh3/i_got_a_little_over_5k_in_8_months_using_my_old/",
-          "published": "2026-10-20T15:02:05+00:00",
-          "engagement": 0
-        }
-      ]
-    },
-    {
-      "id": "over-quickly-seen-urge",
-      "fingerprint": "over quickly seen urge",
-      "opportunity": "Balloon flowers side hustle",
-      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Data / marketplace",
-      "first_detected": "2026-11-17",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 42,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 54
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Reddit",
-          "source_detail": "r/sidehustle",
-          "title": "Balloon flowers side hustle",
-          "url": "https://www.reddit.com/r/sidehustle/comments/1x7ddsc/balloon_flowers_side_hustle/",
-          "published": "2026-10-16T11:11:04+00:00",
-          "engagement": 0
-        }
-      ]
-    },
-    {
-      "id": "avenues-headed-office-weekday",
-      "fingerprint": "avenues headed office weekday",
-      "opportunity": "Multitasking is my side hustle!",
-      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-17",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 42,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 54
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Reddit",
-          "source_detail": "r/sidehustle",
-          "title": "Multitasking is my side hustle!",
-          "url": "https://www.reddit.com/r/sidehustle/comments/1wwxd13/multitasking_is_my_side_hustle/",
-          "published": "2026-10-03T20:37:34+00:00",
-          "engagement": 0
-        }
-      ]
-    },
-    {
-      "id": "automated-cyberattack-hackers-russian-speaking",
-      "fingerprint": "automated cyberattack hackers russian-speaking",
-      "opportunity": "Russian-Speaking Hackers Launched First Automated AI Cyberattack",
+      "id": "manage-process-runs-tool",
+      "fingerprint": "manage process runs tool",
+      "opportunity": "Show HN: Prototype of a product management tool for AI agent companies",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-17",
+      "first_detected": "2026-11-18",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -181,10 +16,10 @@
         "momentum": 43,
         "novelty": 92,
         "saturation": 20,
-        "evidence": 34,
+        "evidence": 46,
         "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
+        "monetization": 65,
+        "opportunity": 60
       },
       "lifecycle": "Very Early",
       "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
@@ -193,20 +28,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Russian-Speaking Hackers Launched First Automated AI Cyberattack",
-          "url": "https://united24media.com/world/russian-speaking-hackers-launched-first-fully-automated-ai-cyberattack-google-says-24451",
-          "published": "2026-11-17T13:24:39+00:00",
-          "engagement": 1
+          "title": "Show HN: Prototype of a product management tool for AI agent companies",
+          "url": "https://featurestream-prototype.vercel.app/",
+          "published": "2026-11-18T10:42:09+00:00",
+          "engagement": 2
         }
       ]
     },
     {
-      "id": "about-any-book-could",
-      "fingerprint": "about any book could",
-      "opportunity": "I have 3 ideas for side business but no idea to start",
-      "summary": "Potential signal detected from Reddit. Open the source links and validate the monetization mechanism before acting.",
+      "id": "agent-customer-support-visual",
+      "fingerprint": "agent customer support visual",
+      "opportunity": "A new AI agent builder. No-code visual builder with customer support platform",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-17",
+      "first_detected": "2026-11-18",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -214,22 +49,22 @@
         "momentum": 43,
         "novelty": 92,
         "saturation": 20,
-        "evidence": 30,
+        "evidence": 46,
         "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 52
+        "monetization": 65,
+        "opportunity": 60
       },
       "lifecycle": "Very Early",
       "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
       "evidence_label": "Discussion signal only",
       "sources": [
         {
-          "source": "Reddit",
-          "source_detail": "r/sidehustle",
-          "title": "I have 3 ideas for side business but no idea to start",
-          "url": "https://www.reddit.com/r/sidehustle/comments/1xey0oz/i_have_3_ideas_for_side_business_but_no_idea_to/",
-          "published": "2026-10-25T09:34:55+00:00",
-          "engagement": 0
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "A new AI agent builder. No-code visual builder with customer support platform",
+          "url": "https://agentrow.io",
+          "published": "2026-11-18T09:54:25+00:00",
+          "engagement": 2
         }
       ]
     }
