@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-18T13:04:16.190800+00:00",
+  "generated_at": "2026-11-19T13:10:49.533380+00:00",
   "raw_items_seen": 120,
   "opportunities": [
     {
-      "id": "manage-process-runs-tool",
-      "fingerprint": "manage process runs tool",
-      "opportunity": "Show HN: Prototype of a product management tool for AI agent companies",
+      "id": "lot-our-these-work",
+      "fingerprint": "lot our these work",
+      "opportunity": "Show HN: VPNDetection, a VPN and proxy detection API with no key",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-18",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-11-19",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -16,10 +16,10 @@
         "momentum": 43,
         "novelty": 92,
         "saturation": 20,
-        "evidence": 46,
+        "evidence": 34,
         "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 60
+        "monetization": 38,
+        "opportunity": 53
       },
       "lifecycle": "Very Early",
       "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
@@ -28,42 +28,9 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Prototype of a product management tool for AI agent companies",
-          "url": "https://featurestream-prototype.vercel.app/",
-          "published": "2026-11-18T10:42:09+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "agent-customer-support-visual",
-      "fingerprint": "agent customer support visual",
-      "opportunity": "A new AI agent builder. No-code visual builder with customer support platform",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-18",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 60
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "A new AI agent builder. No-code visual builder with customer support platform",
-          "url": "https://agentrow.io",
-          "published": "2026-11-18T09:54:25+00:00",
+          "title": "Show HN: VPNDetection, a VPN and proxy detection API with no key",
+          "url": "https://vpndetection.io",
+          "published": "2026-11-19T12:20:37+00:00",
           "engagement": 2
         }
       ]
