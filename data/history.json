@@ -5308,5 +5308,14 @@
         "mentions": 1
       }
     ]
+  },
+  "etc google hidden simple": {
+    "first_detected": "2026-11-21",
+    "daily_mentions": [
+      {
+        "date": "2026-11-21",
+        "mentions": 1
+      }
+    ]
   }
 }

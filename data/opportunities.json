@@ -1,5 +1,39 @@
 {
-  "generated_at": "2026-11-20T12:54:55.326238+00:00",
+  "generated_at": "2026-11-21T12:41:03.464055+00:00",
   "raw_items_seen": 120,
-  "opportunities": []
+  "opportunities": [
+    {
+      "id": "etc-google-hidden-simple",
+      "fingerprint": "etc google hidden simple",
+      "opportunity": "Show HN: Stop applying to jobs using AI-generated resume",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-21",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Stop applying to jobs using AI-generated resume",
+          "url": "https://unmark.grandimam.com/",
+          "published": "2026-11-21T10:21:01+00:00",
+          "engagement": 3
+        }
+      ]
+    }
+  ]
 }
