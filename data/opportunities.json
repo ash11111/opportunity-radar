@@ -1,14 +1,47 @@
 {
-  "generated_at": "2026-11-21T12:41:03.464055+00:00",
+  "generated_at": "2026-11-22T12:36:25.110636+00:00",
   "raw_items_seen": 120,
   "opportunities": [
     {
-      "id": "etc-google-hidden-simple",
-      "fingerprint": "etc google hidden simple",
-      "opportunity": "Show HN: Stop applying to jobs using AI-generated resume",
+      "id": "admiral-assistants-data-real",
+      "fingerprint": "admiral assistants data real",
+      "opportunity": "Show HN: A free website check that starts from what your buyers search",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-21",
+      "first_detected": "2026-11-22",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 46,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 60
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: A free website check that starts from what your buyers search",
+          "url": "https://meetadmiral.com/website-seo-checker",
+          "published": "2026-11-22T12:02:25+00:00",
+          "engagement": 1
+        }
+      ]
+    },
+    {
+      "id": "claude-created-login-url",
+      "fingerprint": "claude created login url",
+      "opportunity": "Ask HN: Where the company's employees launch the tools that Claude created",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-22",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -28,10 +61,10 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Stop applying to jobs using AI-generated resume",
-          "url": "https://unmark.grandimam.com/",
-          "published": "2026-11-21T10:21:01+00:00",
-          "engagement": 3
+          "title": "Ask HN: Where the company's employees launch the tools that Claude created",
+          "url": "https://news.ycombinator.com/item?id=50598355",
+          "published": "2026-11-22T10:47:34+00:00",
+          "engagement": 1
         }
       ]
     }

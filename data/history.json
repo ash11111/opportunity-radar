@@ -5317,5 +5317,23 @@
         "mentions": 1
       }
     ]
+  },
+  "admiral assistants data real": {
+    "first_detected": "2026-11-22",
+    "daily_mentions": [
+      {
+        "date": "2026-11-22",
+        "mentions": 1
+      }
+    ]
+  },
+  "claude created login url": {
+    "first_detected": "2026-11-22",
+    "daily_mentions": [
+      {
+        "date": "2026-11-22",
+        "mentions": 1
+      }
+    ]
   }
 }
