@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-23T14:40:47.603309+00:00",
+  "generated_at": "2026-11-24T14:53:25.385964+00:00",
   "raw_items_seen": 120,
   "opportunities": [
     {
-      "id": "curious-having-only-platform",
-      "fingerprint": "curious having only platform",
-      "opportunity": "Show HN: I built Maeto, an SRv6 SD-WAN from scratch on Linux that you can break",
+      "id": "game-government-moved-not",
+      "fingerprint": "game government moved not",
+      "opportunity": "Show HN: StoryPass \u2013 I turned my mom's paper game into a password generator",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Software / micro-SaaS",
-      "first_detected": "2026-11-23",
+      "category": "Lead generation / agency",
+      "first_detected": "2026-11-24",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -16,10 +16,10 @@
         "momentum": 43,
         "novelty": 92,
         "saturation": 20,
-        "evidence": 46,
+        "evidence": 34,
         "accessibility": 62,
         "monetization": 65,
-        "opportunity": 60
+        "opportunity": 58
       },
       "lifecycle": "Very Early",
       "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
@@ -28,53 +28,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: I built Maeto, an SRv6 SD-WAN from scratch on Linux that you can break",
-          "url": "https://maeto.saphal.me/",
-          "published": "2026-11-23T14:18:31+00:00",
+          "title": "Show HN: StoryPass \u2013 I turned my mom's paper game into a password generator",
+          "url": "https://usestorypass.com/",
+          "published": "2026-11-24T13:57:12+00:00",
           "engagement": 1
         }
       ]
     },
     {
-      "id": "about-blobby-plans-write",
-      "fingerprint": "about blobby plans write",
-      "opportunity": "Show HN: Blobby \u2013 warns when two coding agents edit the same file (macOS)",
+      "id": "acceptance-markdown-must-transitions",
+      "fingerprint": "acceptance markdown must transitions",
+      "opportunity": "Show HN: Pi-maestro \u2013 spec driven development for Pi",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-23",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 55
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Blobby \u2013 warns when two coding agents edit the same file (macOS)",
-          "url": "https://blobbyapp.com",
-          "published": "2026-11-23T14:23:17+00:00",
-          "engagement": 3
-        }
-      ]
-    },
-    {
-      "id": "album-project-releasing-wanted",
-      "fingerprint": "album project releasing wanted",
-      "opportunity": "Show HN: Ten looping songs that change with the time and moon phase",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Software / micro-SaaS",
-      "first_detected": "2026-11-23",
+      "first_detected": "2026-11-24",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -94,9 +61,9 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Ten looping songs that change with the time and moon phase",
-          "url": "https://returntorepeat.gusbyheart.se",
-          "published": "2026-11-23T14:32:02+00:00",
+          "title": "Show HN: Pi-maestro \u2013 spec driven development for Pi",
+          "url": "https://github.com/emilioSp/pi-maestro",
+          "published": "2026-11-24T14:13:10+00:00",
           "engagement": 1
         }
       ]

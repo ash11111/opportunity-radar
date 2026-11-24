@@ -5362,5 +5362,23 @@
         "mentions": 1
       }
     ]
+  },
+  "acceptance markdown must transitions": {
+    "first_detected": "2026-11-24",
+    "daily_mentions": [
+      {
+        "date": "2026-11-24",
+        "mentions": 1
+      }
+    ]
+  },
+  "game government moved not": {
+    "first_detected": "2026-11-24",
+    "daily_mentions": [
+      {
+        "date": "2026-11-24",
+        "mentions": 1
+      }
+    ]
   }
 }
