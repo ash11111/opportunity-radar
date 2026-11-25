@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-24T14:53:25.385964+00:00",
+  "generated_at": "2026-11-25T14:24:19.146119+00:00",
   "raw_items_seen": 120,
   "opportunities": [
     {
-      "id": "game-government-moved-not",
-      "fingerprint": "game government moved not",
-      "opportunity": "Show HN: StoryPass \u2013 I turned my mom's paper game into a password generator",
+      "id": "decided-discount-private-windows",
+      "fingerprint": "decided discount private windows",
+      "opportunity": "Show HN: Bowerbird, a private image organizer for Windows, Mac and Linux",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Lead generation / agency",
-      "first_detected": "2026-11-24",
+      "category": "Service business",
+      "first_detected": "2026-11-25",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -28,20 +28,53 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: StoryPass \u2013 I turned my mom's paper game into a password generator",
-          "url": "https://usestorypass.com/",
-          "published": "2026-11-24T13:57:12+00:00",
-          "engagement": 1
+          "title": "Show HN: Bowerbird, a private image organizer for Windows, Mac and Linux",
+          "url": "https://bowerbird.gallery/",
+          "published": "2026-11-25T13:04:26+00:00",
+          "engagement": 4
         }
       ]
     },
     {
-      "id": "acceptance-markdown-must-transitions",
-      "fingerprint": "acceptance markdown must transitions",
-      "opportunity": "Show HN: Pi-maestro \u2013 spec driven development for Pi",
+      "id": "answers-engineering-expert-personal",
+      "fingerprint": "answers engineering expert personal",
+      "opportunity": "Show HN: Avva \u2013 Compress your expertise available to AI agent via MCP",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-24",
+      "first_detected": "2026-11-25",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 46,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 55
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Avva \u2013 Compress your expertise available to AI agent via MCP",
+          "url": "https://avva.chat/",
+          "published": "2026-11-25T12:53:18+00:00",
+          "engagement": 4
+        }
+      ]
+    },
+    {
+      "id": "discount-need-statements-wanted",
+      "fingerprint": "discount need statements wanted",
+      "opportunity": "Show HN: Free tool to collect invoices and spot forgotten subscriptions",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-25",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -61,9 +94,75 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Pi-maestro \u2013 spec driven development for Pi",
-          "url": "https://github.com/emilioSp/pi-maestro",
-          "published": "2026-11-24T14:13:10+00:00",
+          "title": "Show HN: Free tool to collect invoices and spot forgotten subscriptions",
+          "url": "https://spendgap.ai/",
+          "published": "2026-11-25T12:57:40+00:00",
+          "engagement": 6
+        }
+      ]
+    },
+    {
+      "id": "analysis-little-remember-wanted",
+      "fingerprint": "analysis little remember wanted",
+      "opportunity": "Show HN: Thatplace \u2013 iOS/macOS app to remember the places you've been",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "Software / micro-SaaS",
+      "first_detected": "2026-11-25",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Thatplace \u2013 iOS/macOS app to remember the places you've been",
+          "url": "https://apps.apple.com/us/app/thatplace-places-youve-been/id6799790351",
+          "published": "2026-11-25T13:49:49+00:00",
+          "engagement": 2
+        }
+      ]
+    },
+    {
+      "id": "agents-dispute-non-custodial-sealed-offer",
+      "fingerprint": "agents dispute non-custodial sealed-offer",
+      "opportunity": "Agent-Mediate \u2013 Non-custodial sealed-offer dispute protocol for agents",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-25",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Agent-Mediate \u2013 Non-custodial sealed-offer dispute protocol for agents",
+          "url": "https://github.com/pieterjooste/agent-mediate",
+          "published": "2026-11-25T14:14:50+00:00",
           "engagement": 1
         }
       ]
