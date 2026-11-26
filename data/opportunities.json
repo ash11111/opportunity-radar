@@ -1,14 +1,47 @@
 {
-  "generated_at": "2026-11-25T14:24:19.146119+00:00",
+  "generated_at": "2026-11-26T13:55:22.933348+00:00",
   "raw_items_seen": 120,
   "opportunities": [
     {
-      "id": "decided-discount-private-windows",
-      "fingerprint": "decided discount private windows",
-      "opportunity": "Show HN: Bowerbird, a private image organizer for Windows, Mac and Linux",
+      "id": "agents-built-customer-self-improving",
+      "fingerprint": "agents built customer self-improving",
+      "opportunity": "We built self-improving AI agents for customer service",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Service business",
-      "first_detected": "2026-11-25",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-26",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 46,
+        "accessibility": 62,
+        "monetization": 65,
+        "opportunity": 60
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "We built self-improving AI agents for customer service",
+          "url": "https://aide.app/blog/self-improving-ai-agents",
+          "published": "2026-11-26T13:48:33+00:00",
+          "engagement": 2
+        }
+      ]
+    },
+    {
+      "id": "catch-everyone-resources-same",
+      "fingerprint": "catch everyone resources same",
+      "opportunity": "What do Americans want? Their thoughts on AI are so confusing",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-26",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -28,53 +61,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Bowerbird, a private image organizer for Windows, Mac and Linux",
-          "url": "https://bowerbird.gallery/",
-          "published": "2026-11-25T13:04:26+00:00",
+          "title": "What do Americans want? Their thoughts on AI are so confusing",
+          "url": "https://news.ycombinator.com/item?id=50654961",
+          "published": "2026-11-26T13:11:32+00:00",
           "engagement": 4
         }
       ]
     },
     {
-      "id": "answers-engineering-expert-personal",
-      "fingerprint": "answers engineering expert personal",
-      "opportunity": "Show HN: Avva \u2013 Compress your expertise available to AI agent via MCP",
+      "id": "busier-company-launched-run",
+      "fingerprint": "busier company launched run",
+      "opportunity": "I launched a company run by AI, and I've never been busier",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-25",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 46,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 55
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Avva \u2013 Compress your expertise available to AI agent via MCP",
-          "url": "https://avva.chat/",
-          "published": "2026-11-25T12:53:18+00:00",
-          "engagement": 4
-        }
-      ]
-    },
-    {
-      "id": "discount-need-statements-wanted",
-      "fingerprint": "discount need statements wanted",
-      "opportunity": "Show HN: Free tool to collect invoices and spot forgotten subscriptions",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-25",
+      "first_detected": "2026-11-26",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -94,53 +94,20 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Free tool to collect invoices and spot forgotten subscriptions",
-          "url": "https://spendgap.ai/",
-          "published": "2026-11-25T12:57:40+00:00",
-          "engagement": 6
+          "title": "I launched a company run by AI, and I've never been busier",
+          "url": "https://leftincharge.com/story/never-been-busier/",
+          "published": "2026-11-26T13:47:36+00:00",
+          "engagement": 1
         }
       ]
     },
     {
-      "id": "analysis-little-remember-wanted",
-      "fingerprint": "analysis little remember wanted",
-      "opportunity": "Show HN: Thatplace \u2013 iOS/macOS app to remember the places you've been",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Software / micro-SaaS",
-      "first_detected": "2026-11-25",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Show HN: Thatplace \u2013 iOS/macOS app to remember the places you've been",
-          "url": "https://apps.apple.com/us/app/thatplace-places-youve-been/id6799790351",
-          "published": "2026-11-25T13:49:49+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "agents-dispute-non-custodial-sealed-offer",
-      "fingerprint": "agents dispute non-custodial sealed-offer",
-      "opportunity": "Agent-Mediate \u2013 Non-custodial sealed-offer dispute protocol for agents",
+      "id": "even-made-wife-writing",
+      "fingerprint": "even made wife writing",
+      "opportunity": "Writing software with AI made me love my wife even more",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
       "category": "AI-enabled service",
-      "first_detected": "2026-11-25",
+      "first_detected": "2026-11-26",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -160,9 +127,9 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Agent-Mediate \u2013 Non-custodial sealed-offer dispute protocol for agents",
-          "url": "https://github.com/pieterjooste/agent-mediate",
-          "published": "2026-11-25T14:14:50+00:00",
+          "title": "Writing software with AI made me love my wife even more",
+          "url": "https://blog.greg.technology/2026/11/25/writing-software-with-AI-made-me-love-my-wife-even-more.html",
+          "published": "2026-11-26T12:57:12+00:00",
           "engagement": 1
         }
       ]
