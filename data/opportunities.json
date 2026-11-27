@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-26T13:55:22.933348+00:00",
+  "generated_at": "2026-11-27T13:53:16.221384+00:00",
   "raw_items_seen": 120,
   "opportunities": [
     {
-      "id": "agents-built-customer-self-improving",
-      "fingerprint": "agents built customer self-improving",
-      "opportunity": "We built self-improving AI agents for customer service",
+      "id": "kinks-maintain-need-point",
+      "fingerprint": "kinks maintain need point",
+      "opportunity": "Show HN: Toggles, Data Analysis Game",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-26",
+      "category": "Data / marketplace",
+      "first_detected": "2026-11-27",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
@@ -18,74 +18,8 @@
         "saturation": 20,
         "evidence": 46,
         "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 60
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "We built self-improving AI agents for customer service",
-          "url": "https://aide.app/blog/self-improving-ai-agents",
-          "published": "2026-11-26T13:48:33+00:00",
-          "engagement": 2
-        }
-      ]
-    },
-    {
-      "id": "catch-everyone-resources-same",
-      "fingerprint": "catch everyone resources same",
-      "opportunity": "What do Americans want? Their thoughts on AI are so confusing",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-26",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 65,
-        "opportunity": 58
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "What do Americans want? Their thoughts on AI are so confusing",
-          "url": "https://news.ycombinator.com/item?id=50654961",
-          "published": "2026-11-26T13:11:32+00:00",
-          "engagement": 4
-        }
-      ]
-    },
-    {
-      "id": "busier-company-launched-run",
-      "fingerprint": "busier company launched run",
-      "opportunity": "I launched a company run by AI, and I've never been busier",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-26",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
         "monetization": 38,
-        "opportunity": 53
+        "opportunity": 55
       },
       "lifecycle": "Very Early",
       "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
@@ -94,42 +28,9 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "I launched a company run by AI, and I've never been busier",
-          "url": "https://leftincharge.com/story/never-been-busier/",
-          "published": "2026-11-26T13:47:36+00:00",
-          "engagement": 1
-        }
-      ]
-    },
-    {
-      "id": "even-made-wife-writing",
-      "fingerprint": "even made wife writing",
-      "opportunity": "Writing software with AI made me love my wife even more",
-      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "AI-enabled service",
-      "first_detected": "2026-11-26",
-      "mentions_today": 1,
-      "mentions_7d": 1,
-      "source_count": 1,
-      "scores": {
-        "momentum": 43,
-        "novelty": 92,
-        "saturation": 20,
-        "evidence": 34,
-        "accessibility": 62,
-        "monetization": 38,
-        "opportunity": 53
-      },
-      "lifecycle": "Very Early",
-      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
-      "evidence_label": "Discussion signal only",
-      "sources": [
-        {
-          "source": "Hacker News",
-          "source_detail": "new stories",
-          "title": "Writing software with AI made me love my wife even more",
-          "url": "https://blog.greg.technology/2026/11/25/writing-software-with-AI-made-me-love-my-wife-even-more.html",
-          "published": "2026-11-26T12:57:12+00:00",
+          "title": "Show HN: Toggles, Data Analysis Game",
+          "url": "https://toggles.codewalkers.net",
+          "published": "2026-11-27T13:16:05+00:00",
           "engagement": 1
         }
       ]
