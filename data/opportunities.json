@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-27T13:53:16.221384+00:00",
+  "generated_at": "2026-11-28T13:00:14.722829+00:00",
   "raw_items_seen": 120,
   "opportunities": [
     {
-      "id": "kinks-maintain-need-point",
-      "fingerprint": "kinks maintain need point",
-      "opportunity": "Show HN: Toggles, Data Analysis Game",
+      "id": "agentic-control-possible-sign-on",
+      "fingerprint": "agentic control possible sign-on",
+      "opportunity": "Show HN: Fleetlayer \u2013 Framework for running many AI agents on multiple machines",
       "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
-      "category": "Data / marketplace",
-      "first_detected": "2026-11-27",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-28",
       "mentions_today": 1,
       "mentions_7d": 1,
       "source_count": 1,
       "scores": {
-        "momentum": 43,
+        "momentum": 44,
         "novelty": 92,
         "saturation": 20,
-        "evidence": 46,
+        "evidence": 35,
         "accessibility": 62,
         "monetization": 38,
-        "opportunity": 55
+        "opportunity": 53
       },
       "lifecycle": "Very Early",
       "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
@@ -28,9 +28,42 @@
         {
           "source": "Hacker News",
           "source_detail": "new stories",
-          "title": "Show HN: Toggles, Data Analysis Game",
-          "url": "https://toggles.codewalkers.net",
-          "published": "2026-11-27T13:16:05+00:00",
+          "title": "Show HN: Fleetlayer \u2013 Framework for running many AI agents on multiple machines",
+          "url": "https://fleetlayer.ai/",
+          "published": "2026-11-28T08:37:09+00:00",
+          "engagement": 17
+        }
+      ]
+    },
+    {
+      "id": "mcp-sign-usb-wi-fi",
+      "fingerprint": "mcp sign usb wi-fi",
+      "opportunity": "Show HN: Turbotap \u2013 Open-Source CLI for AI Agents to Drive an iPhone over Wi-Fi",
+      "summary": "Potential signal detected from Hacker News. Open the source links and validate the monetization mechanism before acting.",
+      "category": "AI-enabled service",
+      "first_detected": "2026-11-28",
+      "mentions_today": 1,
+      "mentions_7d": 1,
+      "source_count": 1,
+      "scores": {
+        "momentum": 43,
+        "novelty": 92,
+        "saturation": 20,
+        "evidence": 34,
+        "accessibility": 62,
+        "monetization": 38,
+        "opportunity": 53
+      },
+      "lifecycle": "Very Early",
+      "why_now": "New or recently accelerating discussion in monitored public communities. This is a hypothesis, not a verified market change.",
+      "evidence_label": "Discussion signal only",
+      "sources": [
+        {
+          "source": "Hacker News",
+          "source_detail": "new stories",
+          "title": "Show HN: Turbotap \u2013 Open-Source CLI for AI Agents to Drive an iPhone over Wi-Fi",
+          "url": "https://github.com/Maxteabag/turbotap",
+          "published": "2026-11-28T11:47:33+00:00",
           "engagement": 1
         }
       ]
